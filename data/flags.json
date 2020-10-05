@@ -1,8 +1,8 @@
 {
-	"allow_vote_abstain": false,
+	"allow_vote_abstain": true,
 	"allow_vote_change": true,
 	"allow_vote_multi": false,
 	"auto_upload": true,
 	"logs_channel_id": 758947692016697355,
-	"player_activity_cutoff": 24
+	"player_activity_cutoff": 72
 }
