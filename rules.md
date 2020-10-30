@@ -49,8 +49,8 @@ The definitions for terms listed here take precedence over their normal English 
 * **Section**: A part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.
 * **Subsection**: A section contained within another another section.
 * **Clause**: A single statement in the rules.
-* **Player**: Any participant of the game.
-* **Active Player**: Any player who has performed a game action in the preceding 72 hours, and is a member of the Discord server.
+* **Player**: Any participant of the game who is a member of the Discord server.
+* **Active Player**: Any player who has performed a game action in the preceding 72 hours.
 * **Inactive Player**: Any player who is not an active player.
 
 ### <a name='accuracy'/> Accurcay
