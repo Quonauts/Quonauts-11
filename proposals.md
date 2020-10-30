@@ -144,3 +144,14 @@ add the following new tradable quantities:
 > dodecahedra
 > stone
 
+<a name='17'/>
+
+## #17
+
+add the following new tradable quantities:
+> manifolds
+> beeswax
+> elves
+> immersion
+> antonyms
+
