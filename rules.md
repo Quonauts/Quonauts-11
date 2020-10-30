@@ -251,7 +251,7 @@ In a rule violation poll, any votes cast by the accused player or the author are
 
 If the poll passes, the rule violation and its consequences must be reverted.
 
-If the poll passes and more players are in favour of a strike (👍 reactions) than against (🤷 and 👎 reactions), the accused player may not perform any game actions for the next 24 hours.
+If the poll passes and more votes are in favour of a strike (👍 reactions) than against (🤷 and 👎 reactions), the accused player may not perform any game actions for the next 24 hours.
 
 ### <a name='transactions'/> #transactions
 
