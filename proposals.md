@@ -178,3 +178,9 @@ a player who has not "used their sawmills" in 1 hour, may perform one of the fol
 > (2) "refine cuttable resources" to produce exactly 1 dodecahedron by spending 5 stone, or to produce 1 elongated square gyrobicupola by spending 2 dodecahedra and 10 stone.
 additionally, at any time a player may exchange 10 wood for 1 sawmill in <#758947636978909215>.
 
+<a name='20'/>
+
+## #20
+
+This proposal goes into effect iff and when proposal #18 does. When a proposal is passed, its author gains 1 point.
+
