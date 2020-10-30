@@ -155,3 +155,10 @@ add the following new tradable quantities:
 > immersion
 > antonyms
 
+<a name='18'/>
+
+## #18
+
+Define the following tradable quantity:
+**Points**: Arbitrary reward systems, yay! Tradable.
+
