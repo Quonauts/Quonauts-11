@@ -164,7 +164,7 @@ Define the following tradable quantity:
 
 <a name='19'/>
 
-## #19
+## #19 — Failed
 
 This proposal only goes into effect if and when proposal number 16 passes.
 all players start with 50 wood, 1 elongated square gyrobicupola, 2 dodecahedra, and 25 stone. 
