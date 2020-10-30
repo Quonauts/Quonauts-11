@@ -4,6 +4,7 @@
 
 * [**1. Meta rules**](#meta-rules)
     * [**1.1. Glossary**](#glossary)
+    * [**1.2. Accurcay**](#accuracy)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -24,4 +25,8 @@ The definitions for terms listed here take precedence over their normal English 
 * **Player**: Any participant of the game.
 * **Active Player**: Any player who has performed a game action in the preceding 72 hours, and is a member of the Discord server.
 * **Inactive Player**: Any player who is not an active player.
+
+### <a name='accuracy'/> Accurcay
+
+This document is not guaranteed to always be up-to-date as the game rules are modified, however it is the duty of all players to keep this document accurate as game rules are modified. Where this document disagrees with the game rules, players must follow the game rules as they are, rather than their description in this document.
 
