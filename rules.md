@@ -28,6 +28,7 @@
         * [**2.2.5. Editing proposals**](#editing-proposals)
     * [**2.3. #rules**](#rules)
     * [**2.4. #polls**](#polls)
+        * [**2.4.1. Rule violation polls**](#rule-violation-polls)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -232,4 +233,20 @@ A poll closes when one or more of the following conditions is met:
 * A majority of active players have voted in favour of or against the poll, and there are more than two active players.
 
 When a poll is closed, no more votes may be cast on it, and it may not be edited. If more players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
+
+#### <a name='rule-violation-polls'/> Rule violation polls
+
+If a player ("the accusing player") believes that another player ("the accused player") has violated the rules, the accusing player may conduct a poll, called a "rule violation poll" or "RVP", to determine whether a forbidden action was performed. The poll must clearly state it is an RVP, and must specify the accused player, what sections/clauses of the rules they allegedly violated, and some proof of the violation.
+
+In a rule violation poll, the following reactions are permitted:
+
+* 👍: In favour of the poll, and in favour of a strike.
+* 🤷: In favour of the poll, but against of a strike.
+* 👎: Against the poll, and against a strike.
+
+In a rule violation poll, any votes cast by the accused player or the author are ignored.
+
+If the poll passes, the rule violation and its consequences must be reverted.
+
+If the poll passes and more players are in favour of a strike (👍 reactions) than against (🤷 and 👎 reactions), the accused player may not perform any game actions for the next 24 hours.
 
