@@ -71,7 +71,7 @@ A list of the proposals that would fit within the "nice proposal" category is do
 
 <a name='9'/>
 
-## #9
+## #9 — Passed
 
 Revert the rule changes made by Proposal #2, keeping the other effects.
 
