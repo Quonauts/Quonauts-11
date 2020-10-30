@@ -5,6 +5,7 @@
 * [**1. Meta rules**](#meta-rules)
     * [**1.1. Glossary**](#glossary)
     * [**1.2. Accurcay**](#accuracy)
+    * [**1.3. Precedence**](#precedence)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -29,4 +30,11 @@ The definitions for terms listed here take precedence over their normal English 
 ### <a name='accuracy'/> Accurcay
 
 This document is not guaranteed to always be up-to-date as the game rules are modified, however it is the duty of all players to keep this document accurate as game rules are modified. Where this document disagrees with the game rules, players must follow the game rules as they are, rather than their description in this document.
+
+### <a name='precedence'/> Precedence
+
+In the case of a contradiction between clauses, the following criteria are to be considered in turn until a clear determination can be made as to which clause takes precedence:
+
+* If and only if precedence is specified in the relevant rules and is non-contradictory, follow the instructed precedence.
+* The clause which appears last in the rules takes precedence.
 
