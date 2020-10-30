@@ -80,6 +80,98 @@
 				"529362061658947584": -1
 			},
 			"timestamp": 1604096712
+		},
+		{
+			"n": 7,
+			"author": 421060058009305088,
+			"content": "change the contents of %rule-content to:\n> Rules must not refer to individual players, except by using a Discord mention or by discord user id.",
+			"status": "voting",
+			"message_id": 771864039973584917,
+			"votes": {
+				"160279332454006795": 0,
+				"309787486278909952": 0,
+				"421060058009305088": 1,
+				"529362061658947584": 1
+			},
+			"timestamp": 1604097127
+		},
+		{
+			"n": 8,
+			"author": 529362061658947584,
+			"content": "The 69th proposal is to pass instantly, along with all 10^n*69th proposals, which are to be referred as \"nice proposals\".\n\nA list of the proposals that would fit within the \"nice proposal\" category is down below.\n\n* 690\n* 6900\n* 69000\n* 690000\n* 6900000\n* 69000000",
+			"status": "failed",
+			"message_id": 771864348422832148,
+			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"421060058009305088": -1,
+				"529362061658947584": 1
+			},
+			"timestamp": 1604097201
+		},
+		{
+			"n": 9,
+			"author": 160279332454006795,
+			"content": "Revert the rule changes made by Proposal #2, keeping the other effects.",
+			"status": "passed",
+			"message_id": 771864466181849149,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"529362061658947584": 0
+			},
+			"timestamp": 1604097229
+		},
+		{
+			"n": 10,
+			"author": 421060058009305088,
+			"content": "Add three quantities: x, y, and z. These will be used to track position.",
+			"status": "voting",
+			"message_id": 771864931514581003,
+			"votes": {
+				"309787486278909952": -1,
+				"421060058009305088": 1,
+				"529362061658947584": 1
+			},
+			"timestamp": 1604097340
+		},
+		{
+			"n": 11,
+			"author": 421060058009305088,
+			"content": "add the following to %quantities:\n> at any time, two players may exchange quantities deemed \"resources\" as they see fit.\nadd a quantity deemed a resource, \"wood\". Each player gets 50 wood.",
+			"status": "failed",
+			"message_id": 771865555246383115,
+			"votes": {
+				"309787486278909952": -1,
+				"421060058009305088": -1,
+				"529362061658947584": 1
+			},
+			"timestamp": 1604097488
+		},
+		{
+			"n": 12,
+			"author": 529362061658947584,
+			"content": "No player is to say \"fortnite\" or its variations in the same sentence as the word \"good\".\n\nThe definition of a \"sentence\" for the purposes of this rule **only** is a noun and a period together.\n\nThe exception to this rule is when the phrase \"Minecraft is better\" is inserted.",
+			"status": "failed",
+			"message_id": 771866318382563389,
+			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1604097670
+		},
+		{
+			"n": 13,
+			"author": 529362061658947584,
+			"content": "Create #proposal-drafts .",
+			"status": "failed",
+			"message_id": 771868221808443402,
+			"votes": {
+				"309787486278909952": -1,
+				"529362061658947584": 1
+			},
+			"timestamp": 1604098124
 		}
 	]
 }
