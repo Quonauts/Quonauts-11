@@ -107,7 +107,7 @@ Create #proposal-drafts .
 
 <a name='14'/>
 
-## #14
+## #14 — Failed
 
 @they will win the game if they submit proposal #27 between the hours 5:00 AM UTC and 5:01 AM UTC.
 
