@@ -54,3 +54,18 @@ The user <@!421060058009305088> may not post proposals for 10 hours after this p
 change the contents of %rule-content to:
 > Rules must not refer to individual players, except by using a Discord mention or by discord user id.
 
+<a name='8'/>
+
+## #8
+
+The 69th proposal is to pass instantly, along with all 10^n*69th proposals, which are to be referred as "nice proposals".
+
+A list of the proposals that would fit within the "nice proposal" category is down below.
+
+* 690
+* 6900
+* 69000
+* 690000
+* 6900000
+* 69000000
+
