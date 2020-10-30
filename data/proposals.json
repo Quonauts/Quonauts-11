@@ -245,7 +245,7 @@
 			"message_id": 771875381460467753,
 			"votes": {
 				"160279332454006795": 1,
-				"309787486278909952": 0,
+				"309787486278909952": 1,
 				"421060058009305088": 1
 			},
 			"timestamp": 1604099831
@@ -254,7 +254,7 @@
 			"n": 19,
 			"author": 421060058009305088,
 			"content": "This proposal only goes into effect if and when proposal number 16 passes.\nall players start with 50 wood, 1 elongated square gyrobicupola, 2 dodecahedra, and 25 stone. \n\nadd the following quantity:\n> sawmills\n\nadd the following to the rules as a new section \"%sawmills\":\na player who has not \"used their sawmills\" in 1 hour, may perform one of the following actions by \"using their sawmills\"\n> (1) \"cut wood\" to produce 1 wood per sawmill\n> (2) \"refine cuttable resources\" to produce exactly 1 dodecahedron by spending 5 stone, or to produce 1 elongated square gyrobicupola by spending 2 dodecahedra and 10 stone.\nadditionally, at any time a player may exchange 10 wood for 1 sawmill in <#758947636978909215>.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 771875890895781909,
 			"votes": {
 				"160279332454006795": -1,
