@@ -162,3 +162,19 @@ add the following new tradable quantities:
 Define the following tradable quantity:
 **Points**: Arbitrary reward systems, yay! Tradable.
 
+<a name='19'/>
+
+## #19
+
+This proposal only goes into effect if and when proposal number 16 passes.
+all players start with 50 wood, 1 elongated square gyrobicupola, 2 dodecahedra, and 25 stone. 
+
+add the following quantity:
+> sawmills
+
+add the following to the rules as a new section "%sawmills":
+a player who has not "used their sawmills" in 1 hour, may perform one of the following actions by "using their sawmills"
+> (1) "cut wood" to produce 1 wood per sawmill
+> (2) "refine cuttable resources" to produce exactly 1 dodecahedron by spending 5 stone, or to produce 1 elongated square gyrobicupola by spending 2 dodecahedra and 10 stone.
+additionally, at any time a player may exchange 10 wood for 1 sawmill in <#758947636978909215>.
+
