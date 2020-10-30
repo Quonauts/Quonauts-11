@@ -15,3 +15,14 @@ Append the following to "Quantities":
 Add a quantity named "ndcell" with a description of "N dimensional cellular automata".
 Give the user with the ID of 216295379895844865 (HactarCE) 3 ndcells.
 
+<a name='3'/>
+
+## #3
+
+(This is <@!151149148639330304>'s proposal from before the game, I wanted people to vote on it before changing it in initial)
+
+Edit %voting-on-proposals, changing
+> A player may change their vote on an open proposal at any time.
+to
+> A player may change or rescind their vote on an open proposal at any time.
+
