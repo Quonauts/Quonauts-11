@@ -19,6 +19,7 @@
     * [**2.1. #general**](#general)
     * [**2.2. #proposals**](#proposals)
         * [**2.2.1. Proposal content**](#proposal-content)
+            * [**2.2.1.1. Conflict resolution**](#conflict-resolution)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -150,4 +151,8 @@ If a proposal describes a modification to the rules, it must unambiguously speci
 If a proposal describes the creation of a new rule section, it must specify its title, its content, and should specify its location in relation to an existing rule; if and only if it does not specify a location, then it will be assumed that its location is below all other currently existing rules (this does not apply after the proposal has been enacted).
 
 Any open proposal that does not comply to these rules may be closed as failed at any time.
+
+##### <a name='conflict-resolution'/> Conflict resolution
+
+If multiple proposals describe the modification or addition of sections, paragraphs, or sentences to the same part of the rules, conflicts should be resolved based on the age of the proposal, such that the newer proposal's effect overrides the older one's. For example, if proposal #10 adds a new section "A" to the bottom of the rules, and proposal #11 adds a new section "B" to the bottom of the rules, and both proposals pass, then regardless of which proposal passed first, section "B" will appear below section "A" in the rules.
 
