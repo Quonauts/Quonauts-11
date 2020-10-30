@@ -34,3 +34,10 @@ add a quantity "soup" with the description ɕɕɕɕɕɕɕɕɕɕɕɕɕ
 
 A player with soup may give another player their soup at any time
 
+<a name='5'/>
+
+## #5
+
+add a new rule %unofficial:
+<@!549449251822764043> is henceforth deemed the unofficial bot of quonauts 11.
+
