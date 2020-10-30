@@ -263,17 +263,15 @@ A quantity is a named property with a numerical value for each player.
 
 By default any unique quantity added to the game:
 
-• applies to all players.
-• is instantiated at zero.
-• must be an integer.
-• must never have a negative value.
+* applies to all players.
+* is instantiated at zero.
+* must be an integer.
+* must never have a negative value.
 
 The below list of quantities is merely informational and may not be an accurate description of the game state. Any existing quantity that is not in the list may be added, along with an optional short description.
 
 List of quantities:
 **ndcell**: N dimensional cellular automata
-
-The action of "adding a quantity" is valid in a proposal, and this refers to appending a quantity to the list above, along with a (mandatory) description.
 
 ## <a name='winning'/> Winning
 
