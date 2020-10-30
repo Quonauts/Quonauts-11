@@ -16,6 +16,7 @@
         * [**1.8.3. Lists**](#lists)
         * [**1.8.4. Formatting**](#formatting)
 * [**2. Channels**](#channels)
+    * [**2.1. #general**](#general)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -123,4 +124,8 @@ Additionally, square brackets `[]` containing a tag will be converted into links
 ## <a name='channels'/> Channels
 
 Each subsection of this rule section corresponds to a game channel; as the subsections are created, removed, renamed, or reordered, game channels must be created/removed/renamed/reordered accordingly.
+
+### <a name='general'/> #general
+
+Players may talk freely in the <#758947554162769921> channel.
 
