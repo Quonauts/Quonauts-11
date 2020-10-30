@@ -113,7 +113,7 @@ Create #proposal-drafts .
 
 <a name='15'/>
 
-## #15
+## #15 — Passed
 
 Create a new channel named #trades.
 Add a new rule named "#trades" in "Channels":
