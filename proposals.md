@@ -56,7 +56,7 @@ change the contents of %rule-content to:
 
 <a name='8'/>
 
-## #8
+## #8 — Failed
 
 The 69th proposal is to pass instantly, along with all 10^n*69th proposals, which are to be referred as "nice proposals".
 
