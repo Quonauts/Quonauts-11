@@ -15,6 +15,7 @@
         * [**1.8.2. Headers and tags**](#headers-and-tags)
         * [**1.8.3. Lists**](#lists)
         * [**1.8.4. Formatting**](#formatting)
+* [**2. Channels**](#channels)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -118,4 +119,8 @@ From [GitHub's "Mastering Markdown" document](https://guides.github.com/features
 * Strikethrough
 
 Additionally, square brackets `[]` containing a tag will be converted into links to another rule section; e.g. `[%rule-tag]`. Discord mentions (@username, @role, and #channel) may be used, however they are not readable in GitHub-flavored markdown.
+
+## <a name='channels'/> Channels
+
+Each subsection of this rule section corresponds to a game channel; as the subsections are created, removed, renamed, or reordered, game channels must be created/removed/renamed/reordered accordingly.
 
