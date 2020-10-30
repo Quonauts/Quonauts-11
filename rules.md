@@ -24,6 +24,7 @@
         * [**2.2.2. Voting on proposals**](#voting-on-proposals)
         * [**2.2.3. Closing proposals**](#closing-proposals)
             * [**2.2.3.1. Passing and failing proposals**](#passing-and-failing-proposals)
+        * [**2.2.4. Deleting proposals**](#deleting-proposals)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -192,4 +193,10 @@ The player that authored a proposal may fail it at any time if it is open.
 After a proposal passes, the game state and game rules are modified according to it. The player who passed it must carry out the effects of its passing to the best of their ability.
 
 The rules may only change as the result of a proposal passing, legally.
+
+#### <a name='deleting-proposals'/> Deleting proposals
+
+A deleted proposal is closed, but does not pass or fail.
+
+The author of an open proposal may delete it at any time.
 
