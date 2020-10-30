@@ -180,7 +180,7 @@ additionally, at any time a player may exchange 10 wood for 1 sawmill in <#75894
 
 <a name='20'/>
 
-## #20
+## #20 — Failed
 
 This proposal goes into effect iff and when proposal #18 does. When a proposal is passed, its author gains 1 point.
 
