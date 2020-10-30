@@ -31,6 +31,7 @@
         * [**2.4.1. Rule violation polls**](#rule-violation-polls)
     * [**2.5. #transactions**](#transactions)
 * [**3. Quantities**](#quantities)
+* [**4. Winning**](#winning)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -270,4 +271,8 @@ By default any unique quantity added to the game:
 The below list of quantities is merely informational and may not be an accurate description of the game state. Any existing quantity that is not in the list may be added, along with an optional short description.
 
 List of quantities:
+
+## <a name='winning'/> Winning
+
+When one or more players have won, the game ends.
 
