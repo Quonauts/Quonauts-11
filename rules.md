@@ -52,6 +52,8 @@ The definitions for terms listed here take precedence over their normal English 
 * **Player**: Any participant of the game who is a member of the Discord server.
 * **Active Player**: Any player who has performed a game action in the preceding 72 hours.
 * **Inactive Player**: Any player who is not an active player.
+* **Reaction**: Unless otherwise specified, always refers to a Discord "reaction".
+* **Reacting**: Unless otherwise specified, "reacting" to a message indicates adding a Discord "reaction" to the message.
 
 ### <a name='accuracy'/> Accurcay
 
