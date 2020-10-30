@@ -191,3 +191,12 @@ This proposal goes into effect iff and when proposal #18 does. When a proposal i
 This proposal depends on #18. Add a new rule %rewarding-good-proposals:
 > When a proposal is passed, its author gains 1 point.
 
+<a name='22'/>
+
+## #22
+
+Edit %rule-content, changing
+> Rules
+to
+> Proposals and rules
+
