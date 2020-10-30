@@ -10,6 +10,7 @@
     * [**1.5. Timezones**](#timezones)
     * [**1.6. Bots**](#bots)
     * [**1.7. Rule content**](#rule-content)
+    * [**1.8. Style conventions**](#style-conventions)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -61,4 +62,10 @@ Bots are not players.
 ### <a name='rule-content'/> Rule content
 
 Rules must not refer to individual players, except by using a Discord mention.
+
+### <a name='style-conventions'/> Style conventions
+
+This section and its subsections describe grammatical and stylistic conventions used throughout this ruleset.
+
+Any player may edit the rules to conform to these style conventions. Edits made this way must otherwise be minimal; i.e. they may not change wording or meaning. Note that the meaning of other, linked rule sections must not be changed by such an edit.
 
