@@ -83,7 +83,7 @@
 				"293066066605768714": 0,
 				"309787486278909952": 1,
 				"421060058009305088": -1,
-				"529362061658947584": -1
+				"529362061658947584": 1
 			},
 			"timestamp": 1604096712
 		},
@@ -246,7 +246,8 @@
 			"votes": {
 				"160279332454006795": 1,
 				"309787486278909952": 1,
-				"421060058009305088": 1
+				"421060058009305088": 1,
+				"529362061658947584": 1
 			},
 			"timestamp": 1604099831
 		},
@@ -261,6 +262,42 @@
 				"309787486278909952": -1
 			},
 			"timestamp": 1604099953
+		},
+		{
+			"n": 20,
+			"author": 421060058009305088,
+			"content": "This proposal goes into effect iff and when proposal #18 does. When a proposal is passed, its author gains 1 point.",
+			"status": "failed",
+			"message_id": 771879453155393547,
+			"votes": {
+				"160279332454006795": -1,
+				"421060058009305088": 0,
+				"529362061658947584": 1
+			},
+			"timestamp": 1604100802
+		},
+		{
+			"n": 21,
+			"author": 421060058009305088,
+			"content": "This proposal depends on #18. Add a new rule %rewarding-good-proposals:\n> When a proposal is passed, its author gains 1 point.",
+			"status": "voting",
+			"message_id": 771879859886358578,
+			"votes": {},
+			"timestamp": 1604100899
+		},
+		{
+			"n": 22,
+			"author": 309787486278909952,
+			"content": "Edit %rule-content, changing\n> Rules\nto\n> Proposals and rules",
+			"status": "voting",
+			"message_id": 771880306877530165,
+			"votes": {
+				"160279332454006795": 0,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"529362061658947584": 0
+			},
+			"timestamp": 1604101006
 		}
 	]
 }
