@@ -23,7 +23,7 @@
             * [**2.2.1.2. Dependency resolution**](#dependency-resolution)
         * [**2.2.2. Voting on proposals**](#voting-on-proposals)
         * [**2.2.3. Closing proposals**](#closing-proposals)
-        * [**2.2.4. Passing and failing proposals**](#passing-and-failing-proposals)
+            * [**2.2.3.1. Passing and failing proposals**](#passing-and-failing-proposals)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -183,7 +183,7 @@ Any player may close an open proposal if one or more of the following conditions
 * A majority of active players have voted in favour of or abstained from voting on the proposal, and there are more than 2 active players.
 * A majority of active players have voted against or abstained from voting on the proposal, and there are more than 2 active players.
 
-#### <a name='passing-and-failing-proposals'/> Passing and failing proposals
+##### <a name='passing-and-failing-proposals'/> Passing and failing proposals
 
 When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
 
