@@ -30,6 +30,7 @@
     * [**2.4. #polls**](#polls)
         * [**2.4.1. Rule violation polls**](#rule-violation-polls)
     * [**2.5. #transactions**](#transactions)
+* [**3. Quantities**](#quantities)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -254,4 +255,19 @@ If the poll passes and more players are in favour of a strike (👍 reactions) t
 ### <a name='transactions'/> #transactions
 
 The <#758947636978909215> channel may be used to modify quantities, but only in ways specifically allowed by other rules.
+
+## <a name='quantities'/> Quantities
+
+A quantity is a named property with a numerical value for each player.
+
+By default any unique quantity added to the game:
+
+* applies to all players.
+* is instantiated at zero.
+* must be an integer.
+* must never have a negative value.
+
+The below list of quantities is merely informational and may not be an accurate description of the game state. Any existing quantity that is not in the list may be added, along with an optional short description.
+
+List of quantities:
 
