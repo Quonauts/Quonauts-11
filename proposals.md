@@ -26,3 +26,11 @@ Edit %voting-on-proposals, changing
 to
 > A player may change or rescind their vote on an open proposal at any time.
 
+<a name='4'/>
+
+## #4
+
+add a quantity "soup" with the description ɕɕɕɕɕɕɕɕɕɕɕɕɕ
+
+A player with soup may give another player their soup at any time
+
