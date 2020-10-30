@@ -14,6 +14,7 @@
         * [**1.8.1. Content**](#content)
         * [**1.8.2. Headers and tags**](#headers-and-tags)
         * [**1.8.3. Lists**](#lists)
+        * [**1.8.4. Formatting**](#formatting)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -104,4 +105,17 @@ Within a given list, all elements should have the same style, chosen from the fo
 * Elements are words or phrases, and do not end with a period.
 * Elements are clauses ending in a period (or other punctuation), and optionally followed by complete sentences.
 * Elements are complete sentences ending in a period, and optionally followed by more complete sentences.
+
+#### <a name='formatting'/> Formatting
+
+From [GitHub's "Mastering Markdown" document](https://guides.github.com/features/mastering-markdown/), the following may be used:
+
+* Emphasis (italics and bold, not including double underscore `__`)
+* Unordered and ordered lists (not nested)
+* Links
+* Inline code
+* Automatic linking for URLs
+* Strikethrough
+
+Additionally, square brackets `[]` containing a tag will be converted into links to another rule section; e.g. `[%rule-tag]`. Discord mentions (@username, @role, and #channel) may be used, however they are not readable in GitHub-flavored markdown.
 
