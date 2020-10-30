@@ -81,3 +81,11 @@ Revert the rule changes made by Proposal #2, keeping the other effects.
 
 Add three quantities: x, y, and z. These will be used to track position.
 
+<a name='11'/>
+
+## #11
+
+add the following to %quantities:
+> at any time, two players may exchange quantities deemed "resources" as they see fit.
+add a quantity deemed a resource, "wood". Each player gets 50 wood.
+
