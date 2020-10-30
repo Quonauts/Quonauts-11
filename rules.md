@@ -8,6 +8,7 @@
     * [**1.3. Precedence**](#precedence)
     * [**1.4. Forbidden actions**](#forbidden-actions)
     * [**1.5. Timezones**](#timezones)
+    * [**1.6. Bots**](#bots)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -49,4 +50,10 @@ Any game action that is forbidden (a "rule violation") is considered void and do
 ### <a name='timezones'/> Timezones
 
 Unless otherwise specified, all times and dates are specified with respect to UTC.
+
+### <a name='bots'/> Bots
+
+Certain game functions may be performed automatically by automated "bots"; the behaviour of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if inconvenient, to do manually.
+
+Bots are not players.
 
