@@ -83,7 +83,7 @@ Add three quantities: x, y, and z. These will be used to track position.
 
 <a name='11'/>
 
-## #11
+## #11 — Failed
 
 add the following to %quantities:
 > at any time, two players may exchange quantities deemed "resources" as they see fit.
