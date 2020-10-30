@@ -1,1 +1,12 @@
-{}
+{
+	"ndcell": {
+		"name": "ndcell",
+		"aliases": [
+			"ndcell"
+		],
+		"players": {
+			"216295379895844865": 3
+		},
+		"default_value": 0
+	}
+}
