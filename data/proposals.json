@@ -36,8 +36,10 @@
 			"message_id": 771861581549142066,
 			"votes": {
 				"160279332454006795": -1,
+				"293066066605768714": 1,
 				"309787486278909952": -1,
-				"421060058009305088": 1
+				"421060058009305088": 1,
+				"529362061658947584": -1
 			},
 			"timestamp": 1604096541
 		},
@@ -45,10 +47,11 @@
 			"n": 4,
 			"author": 421060058009305088,
 			"content": "add a quantity \"soup\" with the description \u0255\u0255\u0255\u0255\u0255\u0255\u0255\u0255\u0255\u0255\u0255\u0255\u0255\n\nA player with soup may give another player their soup at any time",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 771861622842589222,
 			"votes": {
 				"160279332454006795": -1,
+				"293066066605768714": -1,
 				"309787486278909952": -1,
 				"421060058009305088": 1
 			},
@@ -58,12 +61,14 @@
 			"n": 5,
 			"author": 421060058009305088,
 			"content": "add a new rule %unofficial:\n<@!549449251822764043> is henceforth deemed the unofficial bot of quonauts 11.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 771861960715010098,
 			"votes": {
 				"160279332454006795": -1,
+				"293066066605768714": -1,
 				"309787486278909952": -1,
-				"421060058009305088": 1
+				"421060058009305088": 1,
+				"529362061658947584": 1
 			},
 			"timestamp": 1604096631
 		},
@@ -75,6 +80,7 @@
 			"message_id": 771862297592332309,
 			"votes": {
 				"160279332454006795": 1,
+				"293066066605768714": 0,
 				"309787486278909952": 1,
 				"421060058009305088": -1,
 				"529362061658947584": -1
@@ -89,6 +95,7 @@
 			"message_id": 771864039973584917,
 			"votes": {
 				"160279332454006795": 0,
+				"293066066605768714": 0,
 				"309787486278909952": 0,
 				"421060058009305088": 1,
 				"529362061658947584": 1
@@ -130,6 +137,7 @@
 			"status": "voting",
 			"message_id": 771864931514581003,
 			"votes": {
+				"160279332454006795": 0,
 				"309787486278909952": -1,
 				"421060058009305088": 1,
 				"529362061658947584": 1
@@ -172,6 +180,87 @@
 				"529362061658947584": 1
 			},
 			"timestamp": 1604098124
+		},
+		{
+			"n": 14,
+			"author": 529362061658947584,
+			"content": "@they will win the game if they submit proposal #27 between the hours 5:00 AM UTC and 5:01 AM UTC.",
+			"status": "failed",
+			"message_id": 771871453737517097,
+			"votes": {
+				"309787486278909952": -1,
+				"421060058009305088": -1,
+				"529362061658947584": -1
+			},
+			"timestamp": 1604098895
+		},
+		{
+			"n": 15,
+			"author": 160279332454006795,
+			"content": "Create a new channel named #trades.\nAdd a new rule named \"#trades\" in \"Channels\":\n> The #trades channel is only to be used for trades.\n> \n> A trade is defined as a message which clearly states:\n> - the recipient of the trade (a Discord mention or their ID)\n> - a tradable quantity (QUANTITY1) and a positive integer amount (X) to be transferred to the recipient from the author\n> - a tradable quantity (QUANTITY2) and a positive integer amount (Y) to be transferred from the recipient to the author\n> \n> If the recipient reacts to the trade with \ud83d\udc4d, (X) (QUANTITY1) is to be transferred to the recipient and (Y) (QUANTITY2) is to be transferred to the author of the trade. This reaction may not be removed.\n> \n> If the recipient or author reacts to the trade with \ud83d\udc4e, it may not be interacted with again. This reaction may not be removed.\n> \n> The trade can only proceed if both users have the quantities in question.\n> \n> Trades may be deleted, but not edited. Trades may not be deleted after being completed.\n> \n> No reaction may be placed on a trade other than \ud83d\udc4d or \ud83d\udc4e. No reaction may be placed on a trade by any player other than the recipient of the trade (or the author, in the case of \ud83d\udc4e )",
+			"status": "passed",
+			"message_id": 771873807467544587,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"529362061658947584": 1
+			},
+			"timestamp": 1604099456
+		},
+		{
+			"n": 16,
+			"author": 421060058009305088,
+			"content": "add the following new tradable quantities:\n> wood\n> elongated square gyrobicupola\n> dodecahedra\n> stone",
+			"status": "voting",
+			"message_id": 771874166873653249,
+			"votes": {
+				"160279332454006795": -1,
+				"293066066605768714": 1,
+				"309787486278909952": -1,
+				"529362061658947584": 1
+			},
+			"timestamp": 1604099542
+		},
+		{
+			"n": 17,
+			"author": 293066066605768714,
+			"content": "add the following new tradable quantities:\n> manifolds\n> beeswax\n> elves\n> immersion\n> antonyms",
+			"status": "voting",
+			"message_id": 771874820123262996,
+			"votes": {
+				"160279332454006795": -1,
+				"293066066605768714": 1,
+				"309787486278909952": -1,
+				"421060058009305088": 1,
+				"529362061658947584": 1
+			},
+			"timestamp": 1604099697
+		},
+		{
+			"n": 18,
+			"author": 160279332454006795,
+			"content": "Define the following tradable quantity:\n**Points**: Arbitrary reward systems, yay! Tradable.",
+			"status": "voting",
+			"message_id": 771875381460467753,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 0,
+				"421060058009305088": 1
+			},
+			"timestamp": 1604099831
+		},
+		{
+			"n": 19,
+			"author": 421060058009305088,
+			"content": "This proposal only goes into effect if and when proposal number 16 passes.\nall players start with 50 wood, 1 elongated square gyrobicupola, 2 dodecahedra, and 25 stone. \n\nadd the following quantity:\n> sawmills\n\nadd the following to the rules as a new section \"%sawmills\":\na player who has not \"used their sawmills\" in 1 hour, may perform one of the following actions by \"using their sawmills\"\n> (1) \"cut wood\" to produce 1 wood per sawmill\n> (2) \"refine cuttable resources\" to produce exactly 1 dodecahedron by spending 5 stone, or to produce 1 elongated square gyrobicupola by spending 2 dodecahedra and 10 stone.\nadditionally, at any time a player may exchange 10 wood for 1 sawmill in <#758947636978909215>.",
+			"status": "voting",
+			"message_id": 771875890895781909,
+			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1604099953
 		}
 	]
 }

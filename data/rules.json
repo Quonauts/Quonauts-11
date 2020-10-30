@@ -31,7 +31,8 @@
 				"proposals",
 				"rules",
 				"polls",
-				"transactions"
+				"transactions",
+				"trades"
 			],
 			"message_ids": [
 				771607823750660096
@@ -246,7 +247,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				771607889835458591
+				771874738200248342
 			]
 		},
 		"root": {
@@ -261,8 +262,8 @@
 				"winning"
 			],
 			"message_ids": [
-				771607909368463381,
-				771607910748127242
+				771874742030172170,
+				771874742885941268
 			]
 		},
 		"rule-content": {
@@ -320,6 +321,16 @@
 				771607799036903424
 			]
 		},
+		"trades": {
+			"tag": "trades",
+			"title": "#trades",
+			"content": "The <#771874153372450828> channel is only to be used for trades.\n\nA trade is defined as a message which clearly states:\n- the recipient of the trade (a Discord mention or their ID)\n- a tradable quantity (QUANTITY1) and a positive integer amount (X) to be transferred to the recipient from the author\n- a tradable quantity (QUANTITY2) and a positive integer amount (Y) to be transferred from the recipient to the author\n\nIf the recipient reacts to the trade with \ud83d\udc4d, (X) (QUANTITY1) is to be transferred to the recipient and (Y) (QUANTITY2) is to be transferred to the author of the trade. This reaction may not be removed.\n\nIf the recipient or author reacts to the trade with \ud83d\udc4e, it may not be interacted with again. This reaction may not be removed.\n\nThe trade can only proceed if both users have the quantities in question.\n\nTrades may be deleted, but not edited. Trades may not be deleted after being completed.\n\nNo reaction may be placed on a trade other than \ud83d\udc4d or \ud83d\udc4e. No reaction may be placed on a trade by any player other than the recipient of the trade (or the author, in the case of \ud83d\udc4e)",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				771874737475026964
+			]
+		},
 		"transactions": {
 			"tag": "transactions",
 			"title": "#transactions",
@@ -347,7 +358,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				771607891236487178
+				771874741237186580
 			]
 		}
 	}
