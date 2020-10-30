@@ -69,3 +69,9 @@ A list of the proposals that would fit within the "nice proposal" category is do
 * 6900000
 * 69000000
 
+<a name='9'/>
+
+## #9
+
+Revert the rule changes made by Proposal #2, keeping the other effects.
+
