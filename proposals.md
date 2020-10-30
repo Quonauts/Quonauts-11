@@ -134,3 +134,13 @@ Add a new rule named "#trades" in "Channels":
 > 
 > No reaction may be placed on a trade other than 👍 or 👎. No reaction may be placed on a trade by any player other than the recipient of the trade (or the author, in the case of 👎 )
 
+<a name='16'/>
+
+## #16
+
+add the following new tradable quantities:
+> wood
+> elongated square gyrobicupola
+> dodecahedra
+> stone
+
