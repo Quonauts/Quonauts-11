@@ -21,6 +21,7 @@
         * [**2.2.1. Proposal content**](#proposal-content)
             * [**2.2.1.1. Conflict resolution**](#conflict-resolution)
             * [**2.2.1.2. Dependency resolution**](#dependency-resolution)
+        * [**2.2.2. Voting on proposals**](#voting-on-proposals)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -162,4 +163,12 @@ If multiple proposals describe the modification or addition of sections, paragra
 A proposal may state that it depends on other proposals, meaning that proposal will fail if any proposal it depends on fails.
 
 A proposal may also state it is incompatible with other proposals, in which case that proposal will fail if any proposal it is incompatible with passes.
+
+#### <a name='voting-on-proposals'/> Voting on proposals
+
+Each player may cast one vote on each open proposal.
+
+Players may vote in favour of (vote "for") a proposal by reacting to the proposal with 👍, vote against by reacting with 👎, or abstain from voting by reacting with 🤷.
+
+A player may change their vote on an open proposal at any time.
 
