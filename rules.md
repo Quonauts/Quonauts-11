@@ -26,6 +26,7 @@
             * [**2.2.3.1. Passing and failing proposals**](#passing-and-failing-proposals)
         * [**2.2.4. Deleting proposals**](#deleting-proposals)
         * [**2.2.5. Editing proposals**](#editing-proposals)
+    * [**2.3. #rules**](#rules)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -206,4 +207,8 @@ The author of an open proposal may delete it at any time.
 The author of an open proposal may edit it at any time if it has no votes on it other than its author.
 
 The author of an open proposal may edit it to add or remove whitespace and fix typos or grammar mistakes, provided the meaning of the proposal and any dependent proposals remains unchanged. Clarifications or additional details must always be added by a new proposal.
+
+### <a name='rules'/> #rules
+
+The <#758947567957442571> channel contains this rules document.
 
