@@ -101,7 +101,7 @@ The exception to this rule is when the phrase "Minecraft is better" is inserted.
 
 <a name='13'/>
 
-## #13
+## #13 — Failed
 
 Create #proposal-drafts .
 
