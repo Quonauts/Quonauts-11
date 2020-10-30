@@ -30,6 +30,7 @@
     * [**2.4. #polls**](#polls)
         * [**2.4.1. Rule violation polls**](#rule-violation-polls)
     * [**2.5. #transactions**](#transactions)
+    * [**2.6. #trades**](#trades)
 * [**3. Quantities**](#quantities)
 * [**4. Winning**](#winning)
 
@@ -256,6 +257,25 @@ If the poll passes and more votes are in favour of a strike (👍 reactions) tha
 ### <a name='transactions'/> #transactions
 
 The <#758947636978909215> channel may be used to modify quantities, but only in ways specifically allowed by other rules.
+
+### <a name='trades'/> #trades
+
+The <#771874153372450828> channel is only to be used for trades.
+
+A trade is defined as a message which clearly states:
+- the recipient of the trade (a Discord mention or their ID)
+- a tradable quantity (QUANTITY1) and a positive integer amount (X) to be transferred to the recipient from the author
+- a tradable quantity (QUANTITY2) and a positive integer amount (Y) to be transferred from the recipient to the author
+
+If the recipient reacts to the trade with 👍, (X) (QUANTITY1) is to be transferred to the recipient and (Y) (QUANTITY2) is to be transferred to the author of the trade. This reaction may not be removed.
+
+If the recipient or author reacts to the trade with 👎, it may not be interacted with again. This reaction may not be removed.
+
+The trade can only proceed if both users have the quantities in question.
+
+Trades may be deleted, but not edited. Trades may not be deleted after being completed.
+
+No reaction may be placed on a trade other than 👍 or 👎. No reaction may be placed on a trade by any player other than the recipient of the trade (or the author, in the case of 👎)
 
 ## <a name='quantities'/> Quantities
 
