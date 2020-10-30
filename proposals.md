@@ -89,3 +89,13 @@ add the following to %quantities:
 > at any time, two players may exchange quantities deemed "resources" as they see fit.
 add a quantity deemed a resource, "wood". Each player gets 50 wood.
 
+<a name='12'/>
+
+## #12
+
+No player is to say "fortnite" or its variations in the same sentence as the word "good".
+
+The definition of a "sentence" for the purposes of this rule **only** is a noun and a period together.
+
+The exception to this rule is when the phrase "Minecraft is better" is inserted.
+
