@@ -75,3 +75,9 @@ A list of the proposals that would fit within the "nice proposal" category is do
 
 Revert the rule changes made by Proposal #2, keeping the other effects.
 
+<a name='10'/>
+
+## #10
+
+Add three quantities: x, y, and z. These will be used to track position.
+
