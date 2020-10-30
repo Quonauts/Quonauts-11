@@ -156,8 +156,6 @@ A proposal is either open or closed. When it is first submitted a proposal is op
 
 A proposal must describe one or more actions that make changes to the game rules or otherwise alter the game state.
 
-A proposal must not reference information outside of the game state, or propose a rule that does so.
-
 If a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified.
 
 If a proposal describes the creation of a new rule section, it must specify its title, its content, and should specify its location in relation to an existing rule; if and only if it does not specify a location, then it will be assumed that its location is below all other currently existing rules (this does not apply after the proposal has been enacted).
