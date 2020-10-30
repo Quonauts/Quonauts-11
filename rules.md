@@ -9,6 +9,7 @@
     * [**1.4. Forbidden actions**](#forbidden-actions)
     * [**1.5. Timezones**](#timezones)
     * [**1.6. Bots**](#bots)
+    * [**1.7. Rule content**](#rule-content)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -56,4 +57,8 @@ Unless otherwise specified, all times and dates are specified with respect to UT
 Certain game functions may be performed automatically by automated "bots"; the behaviour of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if inconvenient, to do manually.
 
 Bots are not players.
+
+### <a name='rule-content'/> Rule content
+
+Rules must not refer to individual players, except by using a Discord mention.
 
