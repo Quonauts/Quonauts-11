@@ -11,6 +11,7 @@
     * [**1.6. Bots**](#bots)
     * [**1.7. Rule content**](#rule-content)
     * [**1.8. Style conventions**](#style-conventions)
+        * [**1.8.1. Content**](#content)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -68,4 +69,14 @@ Rules must not refer to individual players, except by using a Discord mention.
 This section and its subsections describe grammatical and stylistic conventions used throughout this ruleset.
 
 Any player may edit the rules to conform to these style conventions. Edits made this way must otherwise be minimal; i.e. they may not change wording or meaning. Note that the meaning of other, linked rule sections must not be changed by such an edit.
+
+#### <a name='content'/> Content
+
+* All rules should be written in English using proper English grammar and spelling. American and British English spelling are both acceptable.
+* Where applicable, rules should be written using gender-neutral language, with "they/them/their" as a third-person pronoun, both singular and plural.
+* Sentences should be separated by a single space.
+* Paragraphs should be separated by a blank line.
+* Each paragraph or list element must be shorter than 1000 characters.
+* Rules may not contain invisible characters besides newlines, normal spaces, and (in special cases) tabs. Non-ASCII characters should be used sparingly.
+* Double quotes should be preferred instead of single quotes. ASCII-compatible straight quotes should be used instead of "smart" quotes.
 
