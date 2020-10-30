@@ -41,3 +41,9 @@ A player with soup may give another player their soup at any time
 add a new rule %unofficial:
 <@!549449251822764043> is henceforth deemed the unofficial bot of quonauts 11.
 
+<a name='6'/>
+
+## #6
+
+The user <@!421060058009305088> may not post proposals for 10 hours after this proposal has passed. This is a temporary measuer to prevent the flood of spam proposals.
+
