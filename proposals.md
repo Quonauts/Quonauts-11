@@ -266,3 +266,9 @@ Create a new rule named "Weighted Sets" after all other currently existing rules
 
 Anyone who says the string "Varius sit amet mattis vulputate enim nulla. Lobortis feugiat vivamus at augue eget arcu dictum. Sagittis vitae et leo duis ut diam quam. Libero id faucibus nisl tincidunt eget nullam. Tortor at risus viverra adipiscing at. Vestibulum sed arcu non odio euismod lacinia at quis. Orci ac auctor augue mauris. Tortor dignissim convallis aenean et tortor at risus viverra adipiscing. In eu mi bibendum neque egestas. Quam adipiscing vitae proin sagittis. Vel risus commodo viverra maecenas accumsan lacus vel facilisis. Diam sollicitudin tempor id eu nisl nunc mi ipsum. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Malesuada fames ac turpis egestas integer eget aliquet nibh praesent. Ut sem viverra aliquet eget sit amet. Imperdiet proin fermentum leo vel orci porta. Adipiscing elit pellentesque habitant morbi tristique senectus et netus et. Quis varius quam quisque id diam vel quam. Diam in arcu cursus euismod quis viverra nibh cras pulvinar. Risus ultricies tristique nulla aliquet enim. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Arcu dictum varius duis at. " Is to be banned from viewing <#758947579235926056> or <#758947614313676800>  the rest of quo 11.
 
+<a name='29'/>
+
+## #29
+
+delete proposals #26 and #28.
+
