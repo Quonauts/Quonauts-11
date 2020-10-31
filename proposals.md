@@ -200,3 +200,17 @@ Edit %rule-content, changing
 to
 > Proposals and rules
 
+<a name='23'/>
+
+## #23
+
+Add the following tradable quantities:
+**Triangle**: A lowly triangle. Tradable.
+**Square**: A somewhat less lowly square. Tradable.
+**Rock**: Literally a worthless rock. Tradable.
+**Red gem**: A translucent stereotypically diamond-shaped red gem. Tradable.
+**Nonagon**: A rather irritating polygon. Tradable.
+**Blue gem**: Totally not just red gems painted blue. Tradable.
+**Magical artifact**: A sphere reading "Magical artifact". Possibly (probably) not actually magical. Tradable.
+**Purple coin**: A coin coloured purple. It has a black "C" engraved in the centre. Tradable.
+
