@@ -85,7 +85,7 @@ Bots are not players.
 
 ### <a name='rule-content'/> Rule content
 
-Rules must not refer to individual players, except by using a Discord mention.
+Rules must not refer to individual players, except by using a Discord mention or by Discord user ID.
 
 ### <a name='style-conventions'/> Style conventions
 
