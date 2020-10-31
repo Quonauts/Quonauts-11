@@ -360,7 +360,9 @@
 			"content": "Quonauts 11",
 			"status": "voting",
 			"message_id": 771957807032827906,
-			"votes": {},
+			"votes": {
+				"331320482047721472": 1
+			},
 			"timestamp": 1604119485
 		}
 	]
