@@ -272,3 +272,23 @@ Anyone who says the string "Varius sit amet mattis vulputate enim nulla. Loborti
 
 delete proposals #26 and #28.
 
+<a name='30'/>
+
+## #30
+
+Depends on #23 and #27.
+
+Add a new rule "Resources" (%resources) in %quantities:
+> Resources are tradable quantities named in the below weighted set. When it is triggered, the player who triggered it gains one of the quantity named by that action, if it exists.
+> 
+> - Triangle (weight 16, range 1-16)
+> - Square (weight 14, range 17-30)
+> - Rock (weight 12, range 31-42)
+> - Nonagon (weight 9, range 43-51)
+> - Red gem (weight 9, range 52-60)
+> - Blue gem (weight 6, range 61-66)
+> - Magical artifact (weight 4, range 67-70)
+> - Purple coin (weight 1, range 71)
+> 
+> Any player who has more than 2 points may trigger the above weighted set, doing this will deduct 2 points from them.
+
