@@ -292,3 +292,13 @@ Add a new rule "Resources" (%resources) in %quantities:
 > 
 > Any player who has more than 2 points may trigger the above weighted set, doing this will deduct 2 points from them.
 
+<a name='31'/>
+
+## #31
+
+Incompatible with #21.
+
+Create a new rule "Points" (%points) in %quantities:
+> When a proposal is passed, its author gains 2 points.
+> When a proposal is enacted, the player that enacted it gains 1 point.
+
