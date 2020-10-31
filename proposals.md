@@ -214,3 +214,10 @@ Add the following tradable quantities:
 **Magical artifact**: A sphere reading "Magical artifact". Possibly (probably) not actually magical. Tradable.
 **Purple coin**: A coin coloured purple. It has a black "C" engraved in the centre. Tradable.
 
+<a name='24'/>
+
+## #24
+
+This proposal depends on Proposal #23.
+<@!316957310985568256> gets 1000 Triangles
+
