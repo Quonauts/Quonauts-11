@@ -247,7 +247,7 @@
 			"n": 18,
 			"author": 160279332454006795,
 			"content": "Define the following tradable quantity:\n**Points**: Arbitrary reward systems, yay! Tradable.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 771875381460467753,
 			"votes": {
 				"160279332454006795": 1,
@@ -308,6 +308,18 @@
 				"529362061658947584": 0
 			},
 			"timestamp": 1604101006
+		},
+		{
+			"n": 23,
+			"author": 160279332454006795,
+			"content": "Add the following tradable quantities:\n**Triangle**: A lowly triangle. Tradable.\n**Square**: A somewhat less lowly square. Tradable.\n**Rock**: Literally a worthless rock. Tradable.\n**Red gem**: A translucent stereotypically diamond-shaped red gem. Tradable.\n**Nonagon**: A rather irritating polygon. Tradable.\n**Blue gem**: Totally not just red gems painted blue. Tradable.\n**Magical artifact**: A sphere reading \"Magical artifact\". Possibly (probably) not actually magical. Tradable.\n**Purple coin**: A coin coloured purple. It has a black \"C\" engraved in the centre. Tradable.",
+			"status": "voting",
+			"message_id": 771888308275642408,
+			"votes": {
+				"160279332454006795": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1604102913
 		}
 	]
 }
