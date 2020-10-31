@@ -49,7 +49,7 @@ The user <@!421060058009305088> may not post proposals for 10 hours after this p
 
 <a name='7'/>
 
-## #7
+## #7 — Passed
 
 change the contents of %rule-content to:
 > Rules must not refer to individual players, except by using a Discord mention or by discord user id.
