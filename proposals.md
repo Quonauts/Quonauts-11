@@ -227,3 +227,17 @@ This proposal depends on Proposal #23.
 
 Quonauts 11
 
+<a name='26'/>
+
+## #26
+
+Append the following to %quantities
+
+> furry point - If a a player has at least one of these, they are a furry.
+
+Make new rule called "%furries". It will read:
+
+> If a player says, "I'm a furry." in <#758947636978909215> , they gain 1 furry point.
+
+> Players are not allowed to have more than 100 furry points, and if they are at the limit, they get the role, @furry .
+
