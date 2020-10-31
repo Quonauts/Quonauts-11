@@ -157,7 +157,7 @@ add the following new tradable quantities:
 
 <a name='18'/>
 
-## #18
+## #18 — Passed
 
 Define the following tradable quantity:
 **Points**: Arbitrary reward systems, yay! Tradable.
