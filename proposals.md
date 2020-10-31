@@ -216,7 +216,7 @@ Add the following tradable quantities:
 
 <a name='24'/>
 
-## #24
+## #24 — Failed
 
 This proposal depends on Proposal #23.
 <@!316957310985568256> gets 1000 Triangles
