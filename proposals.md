@@ -241,3 +241,22 @@ Make new rule called "%furries". It will read:
 
 > Players are not allowed to have more than 100 furry points, and if they are at the limit, they get the role, @furry .
 
+<a name='27'/>
+
+## #27
+
+Create a new rule named "Weighted Sets" after all other currently existing rules:
+> A weighted set is a list of actions (which require names), along with positive integer "weights".
+> When a weighted set is "activated", an action is executed from this list.
+> 
+> Each action is to be given a "range" of numbers. First of all, actions are to be
+> sorted by weight in descending order. If multiple actions have the same weight, they are to be sorted alphabetically. 
+> 
+> Each action is then to be given an amount of numbers corresponding to their weight, in the order that they are sorted in, starting at 1.
+> 
+> For example, if action A had a weight of 3, action B had a weight of 2 and action C had a weight of 1, action A would have a range of 1-3, action B would have a range of 4-6, and action C would have a range of 7-7 (or just 7).
+> 
+> When the weighted set is "triggered", take a random number between 1 and the maximum number in any range of any action. The action to be taken is whichever action has a range containing the number chosen.
+> 
+> What it means for an action to be taken is to be defined by the rule specifying the weighted set. It is strongly recommended, but not mandatory, that the rule shows the ranges for each action clearly.
+
