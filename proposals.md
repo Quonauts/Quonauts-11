@@ -221,3 +221,9 @@ Add the following tradable quantities:
 This proposal depends on Proposal #23.
 <@!316957310985568256> gets 1000 Triangles
 
+<a name='25'/>
+
+## #25
+
+Quonauts 11
+
