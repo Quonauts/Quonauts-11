@@ -136,7 +136,7 @@ Add a new rule named "#trades" in "Channels":
 
 <a name='16'/>
 
-## #16
+## #16 — Failed
 
 add the following new tradable quantities:
 > wood
