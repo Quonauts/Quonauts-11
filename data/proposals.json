@@ -13,6 +13,7 @@
 				"271274710753476610": 0,
 				"309787486278909952": 1,
 				"316957310985568256": 1,
+				"421060058009305088": -1,
 				"529362061658947584": 1
 			},
 			"timestamp": 1604095893
@@ -366,6 +367,7 @@
 			"status": "voting",
 			"message_id": 771957807032827906,
 			"votes": {
+				"151149148639330304": -1,
 				"160279332454006795": -1,
 				"309787486278909952": 1,
 				"316957310985568256": 1,
@@ -380,9 +382,10 @@
 			"n": 26,
 			"author": 529362061658947584,
 			"content": "Append the following to %quantities\n\n> furry point - If a a player has at least one of these, they are a furry.\n\nMake new rule called \"%furries\". It will read:\n\n> If a player says, \"I'm a furry.\" in <#758947636978909215> , they gain 1 furry point.\n\n> Players are not allowed to have more than 100 furry points, and if they are at the limit, they get the role, @furry .",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 772128224658325525,
 			"votes": {
+				"160279332454006795": -1,
 				"309787486278909952": -1,
 				"421060058009305088": -1,
 				"529362061658947584": 0
