@@ -43,7 +43,7 @@ add a new rule %unofficial:
 
 <a name='6'/>
 
-## #6
+## #6 — Passed
 
 The user <@!421060058009305088> may not post proposals for 10 hours after this proposal has passed. This is a temporary measuer to prevent the flood of spam proposals.
 
