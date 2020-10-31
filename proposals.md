@@ -229,7 +229,7 @@ Quonauts 11
 
 <a name='26'/>
 
-## #26
+## #26 — Failed
 
 Append the following to %quantities
 
