@@ -292,6 +292,7 @@ The below list of quantities is merely informational and may not be an accurate 
 
 List of quantities:
 **ndcell**: N dimensional cellular automata
+**points**: (tradable) Arbitrary reward systems, yay!
 
 ## <a name='winning'/> Winning
 
