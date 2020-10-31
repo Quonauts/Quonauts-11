@@ -269,7 +269,7 @@
 		"rule-content": {
 			"tag": "rule-content",
 			"title": "Rule content",
-			"content": "Rules must not refer to individual players, except by using a Discord mention.",
+			"content": "Rules must not refer to individual players, except by using a Discord mention or by Discord user ID.",
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [

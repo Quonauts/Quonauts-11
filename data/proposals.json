@@ -104,7 +104,7 @@
 			"n": 7,
 			"author": 421060058009305088,
 			"content": "change the contents of %rule-content to:\n> Rules must not refer to individual players, except by using a Discord mention or by discord user id.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 771864039973584917,
 			"votes": {
 				"151149148639330304": 1,
@@ -306,11 +306,13 @@
 			"n": 21,
 			"author": 421060058009305088,
 			"content": "This proposal depends on #18. Add a new rule %rewarding-good-proposals:\n> When a proposal is passed, its author gains 1 point.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 771879859886358578,
 			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": -1,
 				"316957310985568256": 0,
-				"421060058009305088": 1,
+				"421060058009305088": -1,
 				"512645502253400064": 0
 			},
 			"timestamp": 1604100899
@@ -427,8 +429,40 @@
 			"content": "delete proposals #26 and #28.",
 			"status": "voting",
 			"message_id": 772156021887467531,
-			"votes": {},
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 0,
+				"529362061658947584": -1
+			},
 			"timestamp": 1604166743
+		},
+		{
+			"n": 30,
+			"author": 309787486278909952,
+			"content": "Depends on #23 and #27.\n\nAdd a new rule \"Resources\" (%resources) in %quantities:\n> Resources are tradable quantities named in the below weighted set. When it is triggered, the player who triggered it gains one of the quantity named by that action, if it exists.\n> \n> - Triangle (weight 16, range 1-16)\n> - Square (weight 14, range 17-30)\n> - Rock (weight 12, range 31-42)\n> - Nonagon (weight 9, range 43-51)\n> - Red gem (weight 9, range 52-60)\n> - Blue gem (weight 6, range 61-66)\n> - Magical artifact (weight 4, range 67-70)\n> - Purple coin (weight 1, range 71)\n> \n> Any player who has more than 2 points may trigger the above weighted set, doing this will deduct 2 points from them.",
+			"status": "voting",
+			"message_id": 772159232870055956,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"529362061658947584": 0
+			},
+			"timestamp": 1604167509
+		},
+		{
+			"n": 31,
+			"author": 309787486278909952,
+			"content": "Incompatible with #21.\n\nCreate a new rule \"Points\" (%points) in %quantities:\n> When a proposal is passed, its author gains 2 points.\n> When a proposal is enacted, the player that enacted it gains 1 point.",
+			"status": "voting",
+			"message_id": 772159777253097523,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"529362061658947584": 1
+			},
+			"timestamp": 1604167639
 		}
 	]
 }
