@@ -17,7 +17,7 @@ Give the user with the ID of 216295379895844865 (HactarCE) 3 ndcells.
 
 <a name='3'/>
 
-## #3
+## #3 — Failed
 
 (This is <@!151149148639330304>'s proposal from before the game, I wanted people to vote on it before changing it in initial)
 
