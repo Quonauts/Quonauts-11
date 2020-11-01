@@ -310,7 +310,7 @@ This proposal depends on proposal #33.
 
 <a name='33'/>
 
-## #33
+## #33 — Failed
 
 This proposal is incompatible with proposal #32.
 
