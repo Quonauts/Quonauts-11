@@ -308,3 +308,9 @@ Create a new rule "Points" (%points) in %quantities:
 
 This proposal depends on proposal #33.
 
+<a name='33'/>
+
+## #33
+
+This proposal is incompatible with proposal #32.
+
