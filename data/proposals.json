@@ -484,6 +484,30 @@
 				"529362061658947584": 1
 			},
 			"timestamp": 1604167639
+		},
+		{
+			"n": 32,
+			"author": 151149148639330304,
+			"content": "This proposal depends on proposal #33.",
+			"status": "failed",
+			"message_id": 772567648398475284,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1604264884
+		},
+		{
+			"n": 33,
+			"author": 151149148639330304,
+			"content": "This proposal is incompatible with proposal #32.",
+			"status": "failed",
+			"message_id": 772567691797463071,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1604264894
 		}
 	]
 }
