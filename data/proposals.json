@@ -343,7 +343,7 @@
 			"n": 23,
 			"author": 160279332454006795,
 			"content": "Add the following tradable quantities:\n**Triangle**: A lowly triangle. Tradable.\n**Square**: A somewhat less lowly square. Tradable.\n**Rock**: Literally a worthless rock. Tradable.\n**Red gem**: A translucent stereotypically diamond-shaped red gem. Tradable.\n**Nonagon**: A rather irritating polygon. Tradable.\n**Blue gem**: Totally not just red gems painted blue. Tradable.\n**Magical artifact**: A sphere reading \"Magical artifact\". Possibly (probably) not actually magical. Tradable.\n**Purple coin**: A coin coloured purple. It has a black \"C\" engraved in the centre. Tradable.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 771888308275642408,
 			"votes": {
 				"151149148639330304": 1,
@@ -413,6 +413,7 @@
 				"309787486278909952": 1,
 				"316957310985568256": 1,
 				"331320482047721472": 1,
+				"357197641580544000": 0,
 				"421060058009305088": 1,
 				"529362061658947584": 0
 			},
@@ -422,7 +423,7 @@
 			"n": 28,
 			"author": 529362061658947584,
 			"content": "Anyone who says the string \"Varius sit amet mattis vulputate enim nulla. Lobortis feugiat vivamus at augue eget arcu dictum. Sagittis vitae et leo duis ut diam quam. Libero id faucibus nisl tincidunt eget nullam. Tortor at risus viverra adipiscing at. Vestibulum sed arcu non odio euismod lacinia at quis. Orci ac auctor augue mauris. Tortor dignissim convallis aenean et tortor at risus viverra adipiscing. In eu mi bibendum neque egestas. Quam adipiscing vitae proin sagittis. Vel risus commodo viverra maecenas accumsan lacus vel facilisis. Diam sollicitudin tempor id eu nisl nunc mi ipsum. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Malesuada fames ac turpis egestas integer eget aliquet nibh praesent. Ut sem viverra aliquet eget sit amet. Imperdiet proin fermentum leo vel orci porta. Adipiscing elit pellentesque habitant morbi tristique senectus et netus et. Quis varius quam quisque id diam vel quam. Diam in arcu cursus euismod quis viverra nibh cras pulvinar. Risus ultricies tristique nulla aliquet enim. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Arcu dictum varius duis at. \" Is to be banned from viewing <#758947579235926056> or <#758947614313676800>  the rest of quo 11.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 772155189267791882,
 			"votes": {
 				"151149148639330304": -1,
@@ -430,6 +431,7 @@
 				"309787486278909952": -1,
 				"316957310985568256": 1,
 				"331320482047721472": -1,
+				"357197641580544000": -1,
 				"421060058009305088": -1,
 				"529362061658947584": 1
 			},
@@ -447,6 +449,7 @@
 				"309787486278909952": 0,
 				"316957310985568256": 0,
 				"331320482047721472": 0,
+				"357197641580544000": 0,
 				"529362061658947584": -1
 			},
 			"timestamp": 1604166743
@@ -463,6 +466,7 @@
 				"309787486278909952": 1,
 				"316957310985568256": 1,
 				"331320482047721472": 1,
+				"357197641580544000": 0,
 				"421060058009305088": 1,
 				"529362061658947584": 0
 			},
@@ -480,6 +484,7 @@
 				"309787486278909952": 1,
 				"316957310985568256": -1,
 				"331320482047721472": 1,
+				"357197641580544000": 1,
 				"421060058009305088": 1,
 				"529362061658947584": 1
 			},
