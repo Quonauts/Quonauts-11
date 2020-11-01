@@ -5,7 +5,7 @@
 			"n": 1,
 			"author": 309787486278909952,
 			"content": "test",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 771858862021410857,
 			"votes": {
 				"151149148639330304": -1,
@@ -37,7 +37,7 @@
 			"n": 3,
 			"author": 309787486278909952,
 			"content": "(This is <@!151149148639330304>'s proposal from before the game, I wanted people to vote on it before changing it in initial)\n\nEdit %voting-on-proposals, changing\n> A player may change their vote on an open proposal at any time.\nto\n> A player may change or rescind their vote on an open proposal at any time.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 771861581549142066,
 			"votes": {
 				"151149148639330304": 1,
@@ -343,7 +343,7 @@
 			"n": 23,
 			"author": 160279332454006795,
 			"content": "Add the following tradable quantities:\n**Triangle**: A lowly triangle. Tradable.\n**Square**: A somewhat less lowly square. Tradable.\n**Rock**: Literally a worthless rock. Tradable.\n**Red gem**: A translucent stereotypically diamond-shaped red gem. Tradable.\n**Nonagon**: A rather irritating polygon. Tradable.\n**Blue gem**: Totally not just red gems painted blue. Tradable.\n**Magical artifact**: A sphere reading \"Magical artifact\". Possibly (probably) not actually magical. Tradable.\n**Purple coin**: A coin coloured purple. It has a black \"C\" engraved in the centre. Tradable.",
-			"status": "passed",
+			"status": "voting",
 			"message_id": 771888308275642408,
 			"votes": {
 				"151149148639330304": 1,
