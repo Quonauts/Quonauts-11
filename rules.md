@@ -220,23 +220,7 @@ The <#758947567957442571> channel contains this rules document.
 
 ### <a name='polls'/> #polls
 
-A poll is a means of gathering the opinions of players on an issue. A poll is created by sending a message in the <#758947614313676800> channel, provided a rule permits the poll's creation.
-
-Players may vote on a poll by reacting to it with a certain reaction, as specified in the rule permitting the poll's creation. No unspecified reactions are permitted.
-
-The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.
-
-In the event of a conflict, the following parts of this section never take precedence over a rule that allows a poll to be created.
-
-Each player may cast only one vote on a given poll; all votes cast by a player who voted for multiple options are ignored.
-
-A poll closes when one or more of the following conditions is met:
-
-* The poll is at least 24 hours old.
-* All active players have voted on the poll, and there are more than two active players.
-* A majority of active players have voted in favour of or against the poll, and there are more than two active players.
-
-When a poll is closed, no more votes may be cast on it, and it may not be edited. If more players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
+darn file
 
 #### <a name='rule-violation-polls'/> Rule violation polls
 
