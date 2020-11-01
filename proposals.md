@@ -304,7 +304,7 @@ Create a new rule "Points" (%points) in %quantities:
 
 <a name='32'/>
 
-## #32
+## #32 — Failed
 
 This proposal depends on proposal #33.
 
