@@ -302,3 +302,9 @@ Create a new rule "Points" (%points) in %quantities:
 > When a proposal is passed, its author gains 2 points.
 > When a proposal is enacted, the player that enacted it gains 1 point.
 
+<a name='32'/>
+
+## #32
+
+This proposal depends on proposal #33.
+
