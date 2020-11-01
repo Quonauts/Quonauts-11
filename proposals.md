@@ -202,7 +202,7 @@ to
 
 <a name='23'/>
 
-## #23 — Passed
+## #23
 
 Add the following tradable quantities:
 **Triangle**: A lowly triangle. Tradable.
