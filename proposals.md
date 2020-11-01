@@ -337,3 +337,12 @@ Replace the contents of %polls with the following:
 > 
 > When a poll is closed, no more votes may be cast on it, and it may not be edited. If more players have voted in favour of the poll than against, the poll passes; otherwise, it fails.
 
+<a name='35'/>
+
+## #35
+
+Replace the following in %trades:
+> If the recipient reacts to the trade with 👍, (X) (QUANTITY1) is to be transferred to the recipient and (Y) (QUANTITY2) is to be transferred to the author of the trade. This reaction may not be removed.
+with:
+> If the recipient reacts to the trade with 👍, (X) (QUANTITY1) is to be transferred from the author to the recipient and (Y) (QUANTITY2) is to be transferred to the author from the recipient of the trade. This reaction may not be removed.
+
