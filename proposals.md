@@ -193,7 +193,7 @@ This proposal depends on #18. Add a new rule %rewarding-good-proposals:
 
 <a name='22'/>
 
-## #22
+## #22 — Passed
 
 Edit %rule-content, changing
 > Rules
