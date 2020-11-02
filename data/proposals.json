@@ -561,6 +561,17 @@
 				"151149148639330304": 1
 			},
 			"timestamp": 1604287622
+		},
+		{
+			"n": 38,
+			"author": 151149148639330304,
+			"content": "All players gain 2 points.",
+			"status": "voting",
+			"message_id": 772666459008139345,
+			"votes": {
+				"151149148639330304": 1
+			},
+			"timestamp": 1604288442
 		}
 	]
 }
