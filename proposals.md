@@ -375,3 +375,9 @@ Create a new rule %opinion-polls ("Opinion polls") under %polls with the followi
 > 
 > An opinion poll may only be created if and only if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are 👍 and 👎, but the opinion poll may specify different allowed reactions for itself.
 
+<a name='38'/>
+
+## #38
+
+All players gain 2 points.
+
