@@ -1,4 +1,24 @@
 {
+	"bluegem": {
+		"name": "bluegem",
+		"aliases": [
+			"blue_gem",
+			"blue_gems",
+			"bluegems"
+		],
+		"players": {},
+		"default_value": 0
+	},
+	"magicalartifact": {
+		"name": "magicalartifact",
+		"aliases": [
+			"magical_artifact",
+			"magical_artifacts",
+			"magicalartifacts"
+		],
+		"players": {},
+		"default_value": 0
+	},
 	"ndcell": {
 		"name": "ndcell",
 		"aliases": [
@@ -9,9 +29,61 @@
 		},
 		"default_value": 0
 	},
+	"nonagon": {
+		"name": "nonagon",
+		"aliases": [
+			"nonagons"
+		],
+		"players": {},
+		"default_value": 0
+	},
 	"points": {
 		"name": "points",
 		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
+	"purplecoin": {
+		"name": "purplecoin",
+		"aliases": [
+			"purple_coin",
+			"purple_coins",
+			"purplecoins"
+		],
+		"players": {},
+		"default_value": 0
+	},
+	"redgem": {
+		"name": "redgem",
+		"aliases": [
+			"red_gem",
+			"red_gems",
+			"redgems"
+		],
+		"players": {},
+		"default_value": 0
+	},
+	"rock": {
+		"name": "rock",
+		"aliases": [
+			"rocks"
+		],
+		"players": {},
+		"default_value": 0
+	},
+	"square": {
+		"name": "square",
+		"aliases": [
+			"squares"
+		],
+		"players": {},
+		"default_value": 0
+	},
+	"triangle": {
+		"name": "triangle",
+		"aliases": [
+			"triangles"
+		],
 		"players": {},
 		"default_value": 0
 	}

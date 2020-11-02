@@ -243,7 +243,7 @@
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n\nThe below list of quantities is merely informational and may not be an accurate description of the game state. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n**ndcell**: N dimensional cellular automata\n**points**: (tradable) Arbitrary reward systems, yay!",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n\nThe below list of quantities is merely informational and may not be an accurate description of the game state. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n**ndcell**: N dimensional cellular automata\n**points**: (tradable) Arbitrary reward systems, yay!\n**triangle**: (tradable) A lowly triangle.\n**square**: (tradable) A somewhat less lowly square.\n**rock**: (tradable) Literally a worthless rock.\n**nonagon**: (tradable) A rather irritating polygon.\n**red gem**: (tradable) A translucent stereotypically diamond-shaped red gem.\n**blue gem**: (tradable) Totally not just red gems painted blue.\n**magical artifact**: (tradable) A sphere reading \"Magical artifact\". Possibly (probably) not actually magical.\n**purple coin**: (tradable) A coin coloured purple. It has a black \"C\" engraved in the centre.",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
@@ -269,7 +269,7 @@
 		"rule-content": {
 			"tag": "rule-content",
 			"title": "Rule content",
-			"content": "Rules must not refer to individual players, except by using a Discord mention or by Discord user ID.",
+			"content": "Proposals and rules must not refer to individual players, except by using a Discord mention or by Discord user ID.",
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [

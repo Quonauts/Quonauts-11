@@ -326,7 +326,7 @@
 			"n": 22,
 			"author": 309787486278909952,
 			"content": "Edit %rule-content, changing\n> Rules\nto\n> Proposals and rules",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 771880306877530165,
 			"votes": {
 				"151149148639330304": 1,
@@ -343,7 +343,7 @@
 			"n": 23,
 			"author": 160279332454006795,
 			"content": "Add the following tradable quantities:\n**Triangle**: A lowly triangle. Tradable.\n**Square**: A somewhat less lowly square. Tradable.\n**Rock**: Literally a worthless rock. Tradable.\n**Red gem**: A translucent stereotypically diamond-shaped red gem. Tradable.\n**Nonagon**: A rather irritating polygon. Tradable.\n**Blue gem**: Totally not just red gems painted blue. Tradable.\n**Magical artifact**: A sphere reading \"Magical artifact\". Possibly (probably) not actually magical. Tradable.\n**Purple coin**: A coin coloured purple. It has a black \"C\" engraved in the centre. Tradable.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 771888308275642408,
 			"votes": {
 				"151149148639330304": 1,
