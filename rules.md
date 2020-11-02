@@ -293,6 +293,14 @@ The below list of quantities is merely informational and may not be an accurate 
 List of quantities:
 **ndcell**: N dimensional cellular automata
 **points**: (tradable) Arbitrary reward systems, yay!
+**triangle**: (tradable) A lowly triangle.
+**square**: (tradable) A somewhat less lowly square.
+**rock**: (tradable) Literally a worthless rock.
+**nonagon**: (tradable) A rather irritating polygon.
+**red gem**: (tradable) A translucent stereotypically diamond-shaped red gem.
+**blue gem**: (tradable) Totally not just red gems painted blue.
+**magical artifact**: (tradable) A sphere reading "Magical artifact". Possibly (probably) not actually magical.
+**purple coin**: (tradable) A coin coloured purple. It has a black "C" engraved in the centre.
 
 ## <a name='winning'/> Winning
 
