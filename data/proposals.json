@@ -539,6 +539,28 @@
 				"309787486278909952": 0
 			},
 			"timestamp": 1604270352
+		},
+		{
+			"n": 36,
+			"author": 151149148639330304,
+			"content": "Replace the contents of %rule-violation-polls with the following:\n> If a player (\"the accusing player\") believes that another player (\"the accused player\") has violated the rules, the accusing player may conduct a poll, called a \"rule violation poll\" or \"RVP\", to determine whether a forbidden action was performed. The poll must clearly state it is an RVP, and must specify the accused player, what sections/clauses of the rules they allegedly violated, and some proof of the violation.\n> \n> In a rule violation poll, the following reactions are permitted:\n> \n> \u2022 \ud83d\udc4d: In favour of the poll, and in favour of a strike.\n> \u2022 \ud83e\udd37: In favour of the poll, but against of a strike.\n> \u2022 \ud83d\ude00: Against the poll, but in favor of a strike.\n> \u2022 \ud83d\udc4e: Against the poll, and against a strike.\n> \n> In a rule violation poll, any votes cast by the accused player or the author are ignored.\n> \n> If the poll passes, the rule violation and its consequences must be reverted.\n> \n> If the poll passes and more votes are in favour of a strike (\ud83d\udc4d and \ud83d\ude00 reactions) than against (\ud83e\udd37 and \ud83d\udc4e reactions), the accused player may not perform any game actions for the next 24 hours.",
+			"status": "voting",
+			"message_id": 772661774750187530,
+			"votes": {
+				"151149148639330304": 1
+			},
+			"timestamp": 1604287325
+		},
+		{
+			"n": 37,
+			"author": 151149148639330304,
+			"content": "Create a new rule %opinion-polls (\"Opinion polls\") under %polls with the following contents:\n> Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\". An opinion poll must be clearly labeled as such.\n> \n> An opinion poll may only be created if and only if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are \ud83d\udc4d and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.",
+			"status": "voting",
+			"message_id": 772663018424500224,
+			"votes": {
+				"151149148639330304": 1
+			},
+			"timestamp": 1604287622
 		}
 	]
 }
