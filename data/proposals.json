@@ -153,7 +153,7 @@
 			"n": 10,
 			"author": 421060058009305088,
 			"content": "Add three quantities: x, y, and z. These will be used to track position.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 771864931514581003,
 			"votes": {
 				"151149148639330304": -1,
@@ -251,7 +251,7 @@
 			"n": 17,
 			"author": 293066066605768714,
 			"content": "add the following new tradable quantities:\n> manifolds\n> beeswax\n> elves\n> immersion\n> antonyms",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 771874820123262996,
 			"votes": {
 				"151149148639330304": -1,
