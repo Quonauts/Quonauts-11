@@ -346,3 +346,23 @@ Replace the following in %trades:
 with:
 > If the recipient reacts to the trade with 👍, (X) (QUANTITY1) is to be transferred from the author to the recipient and (Y) (QUANTITY2) is to be transferred to the author from the recipient of the trade. This reaction may not be removed.
 
+<a name='36'/>
+
+## #36
+
+Replace the contents of %rule-violation-polls with the following:
+> If a player ("the accusing player") believes that another player ("the accused player") has violated the rules, the accusing player may conduct a poll, called a "rule violation poll" or "RVP", to determine whether a forbidden action was performed. The poll must clearly state it is an RVP, and must specify the accused player, what sections/clauses of the rules they allegedly violated, and some proof of the violation.
+> 
+> In a rule violation poll, the following reactions are permitted:
+> 
+> • 👍: In favour of the poll, and in favour of a strike.
+> • 🤷: In favour of the poll, but against of a strike.
+> • 😀: Against the poll, but in favor of a strike.
+> • 👎: Against the poll, and against a strike.
+> 
+> In a rule violation poll, any votes cast by the accused player or the author are ignored.
+> 
+> If the poll passes, the rule violation and its consequences must be reverted.
+> 
+> If the poll passes and more votes are in favour of a strike (👍 and 😀 reactions) than against (🤷 and 👎 reactions), the accused player may not perform any game actions for the next 24 hours.
+
