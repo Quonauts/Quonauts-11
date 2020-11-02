@@ -366,3 +366,12 @@ Replace the contents of %rule-violation-polls with the following:
 > 
 > If the poll passes and more votes are in favour of a strike (👍 and 😀 reactions) than against (🤷 and 👎 reactions), the accused player may not perform any game actions for the next 24 hours.
 
+<a name='37'/>
+
+## #37
+
+Create a new rule %opinion-polls ("Opinion polls") under %polls with the following contents:
+> Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls". An opinion poll must be clearly labeled as such.
+> 
+> An opinion poll may only be created if and only if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are 👍 and 👎, but the opinion poll may specify different allowed reactions for itself.
+
