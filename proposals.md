@@ -223,7 +223,7 @@ This proposal depends on Proposal #23.
 
 <a name='25'/>
 
-## #25
+## #25 — Failed
 
 Quonauts 11
 
