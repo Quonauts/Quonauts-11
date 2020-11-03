@@ -243,7 +243,7 @@ Make new rule called "%furries". It will read:
 
 <a name='27'/>
 
-## #27
+## #27 — Passed
 
 Create a new rule named "Weighted Sets" after all other currently existing rules:
 > A weighted set is a list of actions (which require names), along with positive integer "weights".
