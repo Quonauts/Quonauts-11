@@ -268,7 +268,7 @@ Anyone who says the string "Varius sit amet mattis vulputate enim nulla. Loborti
 
 <a name='29'/>
 
-## #29
+## #29 — Failed
 
 delete proposals #26 and #28.
 
