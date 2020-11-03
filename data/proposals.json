@@ -645,7 +645,7 @@
 			"status": "voting",
 			"message_id": 773153638721781791,
 			"votes": {
-				"151149148639330304": 1,
+				"151149148639330304": -1,
 				"309787486278909952": 1,
 				"316957310985568256": 0,
 				"331320482047721472": 1,
@@ -665,6 +665,18 @@
 				"309787486278909952": -1
 			},
 			"timestamp": 1604418115
+		},
+		{
+			"n": 44,
+			"author": 151149148639330304,
+			"content": "Create a new tradable quantity \"dogecoin\" (alias: \"doge\").\n\nCreate a new rule %dogecoin under %quantities with the following contents:\n> A player's dogecoin quantity defaults to 100.\n> \n> A player's dogecoin quantity may not be changed by proposals or by rules other than %trades.\n> \n> This rule overrides all rules that do not state that they override this rule.",
+			"status": "voting",
+			"message_id": 773216352646725653,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1604419549
 		}
 	]
 }
