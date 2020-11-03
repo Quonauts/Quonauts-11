@@ -433,3 +433,10 @@ Create a new rule %dogecoin under %quantities with the following contents:
 > 
 > This rule overrides all rules that do not state that they override this rule.
 
+<a name='45'/>
+
+## #45
+
+Append the following to %winning:
+> The player/players who obtains/obtain the legendary artifact known as the Quonatus wins the game.
+
