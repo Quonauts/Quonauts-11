@@ -405,7 +405,7 @@
 			"n": 27,
 			"author": 160279332454006795,
 			"content": "Create a new rule named \"Weighted Sets\" after all other currently existing rules:\n> A weighted set is a list of actions (which require names), along with positive integer \"weights\".\n> When a weighted set is \"activated\", an action is executed from this list.\n> \n> Each action is to be given a \"range\" of numbers. First of all, actions are to be\n> sorted by weight in descending order. If multiple actions have the same weight, they are to be sorted alphabetically. \n> \n> Each action is then to be given an amount of numbers corresponding to their weight, in the order that they are sorted in, starting at 1.\n> \n> For example, if action A had a weight of 3, action B had a weight of 2 and action C had a weight of 1, action A would have a range of 1-3, action B would have a range of 4-6, and action C would have a range of 7-7 (or just 7).\n> \n> When the weighted set is \"triggered\", take a random number between 1 and the maximum number in any range of any action. The action to be taken is whichever action has a range containing the number chosen.\n> \n> What it means for an action to be taken is to be defined by the rule specifying the weighted set. It is strongly recommended, but not mandatory, that the rule shows the ranges for each action clearly.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 772154374859259905,
 			"votes": {
 				"151149148639330304": 1,
@@ -441,7 +441,7 @@
 			"n": 29,
 			"author": 421060058009305088,
 			"content": "delete proposals #26 and #28.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 772156021887467531,
 			"votes": {
 				"151149148639330304": -1,
@@ -458,7 +458,7 @@
 			"n": 30,
 			"author": 309787486278909952,
 			"content": "Depends on #23 and #27.\n\nAdd a new rule \"Resources\" (%resources) in %quantities:\n> Resources are tradable quantities named in the below weighted set. When it is triggered, the player who triggered it gains one of the quantity named by that action, if it exists.\n> \n> - Triangle (weight 16, range 1-16)\n> - Square (weight 14, range 17-30)\n> - Rock (weight 12, range 31-42)\n> - Nonagon (weight 9, range 43-51)\n> - Red gem (weight 9, range 52-60)\n> - Blue gem (weight 6, range 61-66)\n> - Magical artifact (weight 4, range 67-70)\n> - Purple coin (weight 1, range 71)\n> \n> Any player who has more than 2 points may trigger the above weighted set, doing this will deduct 2 points from them.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 772159232870055956,
 			"votes": {
 				"151149148639330304": 1,
@@ -476,7 +476,7 @@
 			"n": 31,
 			"author": 309787486278909952,
 			"content": "Incompatible with #21.\n\nCreate a new rule \"Points\" (%points) in %quantities:\n> When a proposal is passed, its author gains 2 points.\n> When a proposal is enacted, the player that enacted it gains 1 point.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 772159777253097523,
 			"votes": {
 				"151149148639330304": 1,

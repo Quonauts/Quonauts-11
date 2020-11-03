@@ -189,6 +189,16 @@
 				771607866246561812
 			]
 		},
+		"points": {
+			"tag": "points",
+			"title": "Points",
+			"content": "When a proposal is passed, its author gains 2 points.\nWhen a proposal is enacted, the player that enacted it gains 1 point.",
+			"parent_tag": "quantities",
+			"child_tags": [],
+			"message_ids": [
+				772976937320710164
+			]
+		},
 		"polls": {
 			"tag": "polls",
 			"title": "#polls",
@@ -245,9 +255,22 @@
 			"title": "Quantities",
 			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n\nThe below list of quantities is merely informational and may not be an accurate description of the game state. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n**ndcell**: N dimensional cellular automata\n**points**: (tradable) Arbitrary reward systems, yay!\n**triangle**: (tradable) A lowly triangle.\n**square**: (tradable) A somewhat less lowly square.\n**rock**: (tradable) Literally a worthless rock.\n**nonagon**: (tradable) A rather irritating polygon.\n**red gem**: (tradable) A translucent stereotypically diamond-shaped red gem.\n**blue gem**: (tradable) Totally not just red gems painted blue.\n**magical artifact**: (tradable) A sphere reading \"Magical artifact\". Possibly (probably) not actually magical.\n**purple coin**: (tradable) A coin coloured purple. It has a black \"C\" engraved in the centre.",
 			"parent_tag": "root",
-			"child_tags": [],
+			"child_tags": [
+				"resources",
+				"points"
+			],
 			"message_ids": [
 				771874738200248342
+			]
+		},
+		"resources": {
+			"tag": "resources",
+			"title": "Resources",
+			"content": "Resources are tradable quantities named in the below weighted set. When it is triggered, the player who triggered it gains one of the quantity named by that action, if it exists.\n\n- Triangle (weight 16, range 1-16)\n- Square (weight 14, range 17-30)\n- Rock (weight 12, range 31-42)\n- Nonagon (weight 9, range 43-51)\n- Red gem (weight 9, range 52-60)\n- Blue gem (weight 6, range 61-66)\n- Magical artifact (weight 4, range 67-70)\n- Purple coin (weight 1, range 71)\n\nAny player who has more than 2 points may trigger the above weighted set, doing this will deduct 2 points from them.",
+			"parent_tag": "quantities",
+			"child_tags": [],
+			"message_ids": [
+				772976936498233374
 			]
 		},
 		"root": {
@@ -259,11 +282,13 @@
 				"meta-rules",
 				"channels",
 				"quantities",
-				"winning"
+				"winning",
+				"weighted-sets"
 			],
 			"message_ids": [
-				771874742030172170,
-				771874742885941268
+				772977697386659870,
+				772977698132983820,
+				772977699555115048
 			]
 		},
 		"rule-content": {
@@ -351,6 +376,16 @@
 				771607846886178846
 			]
 		},
+		"weighted-sets": {
+			"tag": "weighted-sets",
+			"title": "Weighted Sets",
+			"content": "A weighted set is a list of actions (which require names), along with positive integer \"weights\".\nWhen a weighted set is \"activated\", an action is executed from this list.\n\nEach action is to be given a \"range\" of numbers. First of all, actions are to be\nsorted by weight in descending order. If multiple actions have the same weight, they are to be sorted alphabetically.\n\nEach action is then to be given an amount of numbers corresponding to their weight, in the order that they are sorted in, starting at 1.\n\nFor example, if action A had a weight of 3, action B had a weight of 2 and action C had a weight of 1, action A would have a range of 1-3, action B would have a range of 4-6, and action C would have a range of 7-7 (or just 7).\n\nWhen the weighted set is \"triggered\", take a random number between 1 and the maximum number in any range of any action. The action to be taken is whichever action has a range containing the number chosen.\n\nWhat it means for an action to be taken is to be defined by the rule specifying the weighted set. It is strongly recommended, but not mandatory, that the rule shows the ranges for each action clearly.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				772977696354598932
+			]
+		},
 		"winning": {
 			"tag": "winning",
 			"title": "Winning",
@@ -358,7 +393,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				771874741237186580
+				772976938012508220
 			]
 		}
 	}
