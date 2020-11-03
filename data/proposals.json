@@ -533,7 +533,7 @@
 			"n": 35,
 			"author": 151149148639330304,
 			"content": "Replace the following in %trades:\n> If the recipient reacts to the trade with \ud83d\udc4d, (X) (QUANTITY1) is to be transferred to the recipient and (Y) (QUANTITY2) is to be transferred to the author of the trade. This reaction may not be removed.\nwith:\n> If the recipient reacts to the trade with \ud83d\udc4d, (X) (QUANTITY1) is to be transferred from the author to the recipient and (Y) (QUANTITY2) is to be transferred to the author from the recipient of the trade. This reaction may not be removed.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 772590584652890112,
 			"votes": {
 				"151149148639330304": 1,
@@ -646,6 +646,7 @@
 			"message_id": 773153638721781791,
 			"votes": {
 				"151149148639330304": -1,
+				"309787486278909952": 1,
 				"316957310985568256": 0,
 				"331320482047721472": 1,
 				"421060058009305088": -1,
