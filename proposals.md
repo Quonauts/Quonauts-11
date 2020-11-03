@@ -316,7 +316,7 @@ This proposal is incompatible with proposal #32.
 
 <a name='34'/>
 
-## #34
+## #34 — Passed
 
 Replace the contents of %polls with the following:
 > A poll is a means of gathering the opinions of players on an issue. A poll is created by sending a message in the <#758947614313676800> channel, provided a rule permits the poll's creation.
