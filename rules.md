@@ -263,7 +263,7 @@ The <#758947636978909215> channel may be used to modify quantities, but only in 
 
 ### <a name='trades'/> #trades
 
-fuck
+yes i have
 
 ## <a name='quantities'/> Quantities
 
