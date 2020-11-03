@@ -424,12 +424,12 @@ i will return them in unspecified time period
 
 ## #44
 
-Create a new tradeable quantity "dogecoin" (alias: "doge").
+Create a new tradable quantity "dogecoin" (alias: "doge").
 
 Create a new rule %dogecoin under %quantities with the following contents:
 > A player's dogecoin quantity defaults to 100.
-> 
+>
 > A player's dogecoin quantity may not be changed by proposals or by rules other than %trades.
-> 
+>
 > This rule overrides all rules that do not state that they override this rule.
 
