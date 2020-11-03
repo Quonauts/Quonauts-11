@@ -381,3 +381,14 @@ Create a new rule %opinion-polls ("Opinion polls") under %polls with the followi
 
 All players gain 2 points.
 
+<a name='39'/>
+
+## #39
+
+Replace the contents of %dependency-resolution with:
+> This rule overrides %closing-proposals and %passing-and-failing-proposals.
+> 
+> A proposal may state that it depends on other proposals (called its dependencies), in which case that proposal cannot be closed until all of its dependencies have passed or until any of its dependencies have failed, and that proposal cannot be passed unless all of its dependencies have passed.
+> 
+> A proposal may also state it is incompatible with other proposals (called its incompatibilities), in which case that proposal cannot be closed until all of its incompatibilities have failed or until any of its incompatibilities have passed, and that proposal cannot be passed unless all of its incompatibilities have failed.
+
