@@ -294,7 +294,7 @@ Add a new rule "Resources" (%resources) in %quantities:
 
 <a name='31'/>
 
-## #31
+## #31 — Passed
 
 Incompatible with #21.
 
