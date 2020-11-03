@@ -450,3 +450,10 @@ Append the following to %winning:
 
 Pass proposal #48 immediately.
 
+<a name='48'/>
+
+## #48
+
+Create a new rule %proposal-8 ("Proposal 8") with the following contents:
+> Proposal 42 cannot be closed.
+
