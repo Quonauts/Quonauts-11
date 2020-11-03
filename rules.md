@@ -32,6 +32,7 @@
     * [**2.5. #transactions**](#transactions)
     * [**2.6. #trades**](#trades)
 * [**3. Quantities**](#quantities)
+    * [**3.1. Points**](#points)
 * [**4. Winning**](#winning)
 
 ## <a name='meta-rules'/> Meta rules
@@ -301,6 +302,11 @@ List of quantities:
 **blue gem**: (tradable) Totally not just red gems painted blue.
 **magical artifact**: (tradable) A sphere reading "Magical artifact". Possibly (probably) not actually magical.
 **purple coin**: (tradable) A coin coloured purple. It has a black "C" engraved in the centre.
+
+### <a name='points'/> Points
+
+When a proposal is passed, its author gains 2 points.
+When a proposal is enacted, the player that enacted it gains 1 point.
 
 ## <a name='winning'/> Winning
 
