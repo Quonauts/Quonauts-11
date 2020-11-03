@@ -339,7 +339,7 @@ Replace the contents of %polls with the following:
 
 <a name='35'/>
 
-## #35
+## #35 — Passed
 
 Replace the following in %trades:
 > If the recipient reacts to the trade with 👍, (X) (QUANTITY1) is to be transferred to the recipient and (Y) (QUANTITY2) is to be transferred to the author of the trade. This reaction may not be removed.
