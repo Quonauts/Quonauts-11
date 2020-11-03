@@ -32,8 +32,8 @@
     * [**2.5. #transactions**](#transactions)
     * [**2.6. #trades**](#trades)
 * [**3. Quantities**](#quantities)
-    * [**3.1. Points**](#points)
-    * [**3.2. Resources**](#resources)
+    * [**3.1. Resources**](#resources)
+    * [**3.2. Points**](#points)
 * [**4. Winning**](#winning)
 
 ## <a name='meta-rules'/> Meta rules
@@ -304,11 +304,6 @@ List of quantities:
 **magical artifact**: (tradable) A sphere reading "Magical artifact". Possibly (probably) not actually magical.
 **purple coin**: (tradable) A coin coloured purple. It has a black "C" engraved in the centre.
 
-### <a name='points'/> Points
-
-When a proposal is passed, its author gains 2 points.
-When a proposal is enacted, the player that enacted it gains 1 point.
-
 ### <a name='resources'/> Resources
 
 Resources are tradable quantities named in the below weighted set. When it is triggered, the player who triggered it gains one of the quantity named by that action, if it exists.
@@ -323,6 +318,11 @@ Resources are tradable quantities named in the below weighted set. When it is tr
 - Purple coin (weight 1, range 71)
 
 Any player who has more than 2 points may trigger the above weighted set, doing this will deduct 2 points from them.
+
+### <a name='points'/> Points
+
+When a proposal is passed, its author gains 2 points.
+When a proposal is enacted, the player that enacted it gains 1 point.
 
 ## <a name='winning'/> Winning
 
