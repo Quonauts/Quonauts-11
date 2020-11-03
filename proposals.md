@@ -392,3 +392,9 @@ Replace the contents of %dependency-resolution with:
 > 
 > A proposal may also state it is incompatible with other proposals (called its incompatibilities), in which case that proposal cannot be closed until all of its incompatibilities have failed or until any of its incompatibilities have passed, and that proposal cannot be passed unless all of its incompatibilities have failed.
 
+<a name='40'/>
+
+## #40
+
+All players, not including the author of this proposal and the player who enacted it, gain 2 points. The player who enacted this proposal gains 1 point.
+
