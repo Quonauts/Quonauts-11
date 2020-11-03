@@ -412,3 +412,11 @@ get rich quick scheme
 give me all points
 i will return them in unspecified time period
 
+<a name='43'/>
+
+## #43
+
+get rich quick scheme
+give _me_ all points
+i will return them in unspecified time period
+
