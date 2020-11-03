@@ -348,7 +348,7 @@ with:
 
 <a name='36'/>
 
-## #36
+## #36 — Failed
 
 Replace the contents of %rule-violation-polls with the following:
 > If a player ("the accusing player") believes that another player ("the accused player") has violated the rules, the accusing player may conduct a poll, called a "rule violation poll" or "RVP", to determine whether a forbidden action was performed. The poll must clearly state it is an RVP, and must specify the accused player, what sections/clauses of the rules they allegedly violated, and some proof of the violation.
