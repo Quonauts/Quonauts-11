@@ -40,7 +40,11 @@
 	"points": {
 		"name": "points",
 		"aliases": [],
-		"players": {},
+		"players": {
+			"151149148639330304": 2,
+			"160279332454006795": 2,
+			"309787486278909952": 2
+		},
 		"default_value": 0
 	},
 	"purplecoin": {
