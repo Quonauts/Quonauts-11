@@ -611,9 +611,21 @@
 			"status": "voting",
 			"message_id": 773016669525114900,
 			"votes": {
-				"151149148639330304": 1
+				"151149148639330304": 1,
+				"160279332454006795": -1
 			},
 			"timestamp": 1604371940
+		},
+		{
+			"n": 41,
+			"author": 151149148639330304,
+			"content": "All players, not including the author of this proposal and the player who enacted it, gain 2 points. The player who enacted this proposal gains 1 point if that player is not the author of this proposal.",
+			"status": "voting",
+			"message_id": 773045059276898314,
+			"votes": {
+				"151149148639330304": 1
+			},
+			"timestamp": 1604378709
 		}
 	]
 }
