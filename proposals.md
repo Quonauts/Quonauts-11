@@ -274,7 +274,7 @@ delete proposals #26 and #28.
 
 <a name='30'/>
 
-## #30
+## #30 — Passed
 
 Depends on #23 and #27.
 
