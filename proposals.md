@@ -404,3 +404,11 @@ All players, not including the author of this proposal and the player who enacte
 
 All players, not including the author of this proposal and the player who enacted it, gain 2 points. The player who enacted this proposal gains 1 point if that player is not the author of this proposal.
 
+<a name='42'/>
+
+## #42
+
+get rich quick scheme
+give me all points
+i will return them in unspecified time period
+
