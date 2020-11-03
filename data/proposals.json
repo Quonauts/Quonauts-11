@@ -518,7 +518,7 @@
 			"n": 34,
 			"author": 151149148639330304,
 			"content": "Replace the contents of %polls with the following:\n> A poll is a means of gathering the opinions of players on an issue. A poll is created by sending a message in the <#758947614313676800> channel, provided a rule permits the poll's creation.\n> \n> Players may vote on a poll by reacting to it with a certain reaction, as specified in the rule permitting the poll's creation. No unspecified reactions are permitted.\n> \n> The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.\n> \n> In the event of a conflict, the following parts of this section never take precedence over a rule that allows a poll to be created.\n> \n> Each player may cast only one vote on a given poll; all votes cast by a player who voted for multiple options are ignored.\n> \n> A poll closes when one or more of the following conditions is met:\n> \n> * The poll is at least 24 hours old.\n> * All active players have voted on the poll, and there are more than two active players.\n> * A majority of active players have voted in favour of or against the poll, and there are more than two active players.\n> \n> When a poll is closed, no more votes may be cast on it, and it may not be edited. If more players have voted in favour of the poll than against, the poll passes; otherwise, it fails.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 772589159595638815,
 			"votes": {
 				"151149148639330304": 1,
@@ -550,7 +550,7 @@
 			"n": 36,
 			"author": 151149148639330304,
 			"content": "Replace the contents of %rule-violation-polls with the following:\n> If a player (\"the accusing player\") believes that another player (\"the accused player\") has violated the rules, the accusing player may conduct a poll, called a \"rule violation poll\" or \"RVP\", to determine whether a forbidden action was performed. The poll must clearly state it is an RVP, and must specify the accused player, what sections/clauses of the rules they allegedly violated, and some proof of the violation.\n> \n> In a rule violation poll, the following reactions are permitted:\n> \n> \u2022 \ud83d\udc4d: In favour of the poll, and in favour of a strike.\n> \u2022 \ud83e\udd37: In favour of the poll, but against of a strike.\n> \u2022 \ud83d\ude00: Against the poll, but in favor of a strike.\n> \u2022 \ud83d\udc4e: Against the poll, and against a strike.\n> \n> In a rule violation poll, any votes cast by the accused player or the author are ignored.\n> \n> If the poll passes, the rule violation and its consequences must be reverted.\n> \n> If the poll passes and more votes are in favour of a strike (\ud83d\udc4d and \ud83d\ude00 reactions) than against (\ud83e\udd37 and \ud83d\udc4e reactions), the accused player may not perform any game actions for the next 24 hours.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 772661774750187530,
 			"votes": {
 				"151149148639330304": 1,
@@ -660,7 +660,7 @@
 			"n": 43,
 			"author": 151149148639330304,
 			"content": "get rich quick scheme\ngive _me_ all points\ni will return them in unspecified time period",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 773210340435558472,
 			"votes": {
 				"151149148639330304": -1,
