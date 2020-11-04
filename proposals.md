@@ -482,7 +482,7 @@ Delete proposal #50 (fifty)
 
 ## #52
 
-Change the content of %opinion-polls:
+Change the content of %opinion-polls (wording and spelling):
 > Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls". An opinion poll must be clearly labelled as such.
 > 
 > A player may only create an opinion poll if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are 👍 and 👎, but the opinion poll may specify different allowed reactions for itself.
