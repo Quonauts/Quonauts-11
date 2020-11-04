@@ -439,7 +439,7 @@ Create a new rule %dogecoin under %quantities with the following contents:
 
 <a name='46'/>
 
-## #46
+## #46 — Failed
 
 Append the following to %winning:
 > The player who obtains the legendary artifact known as the Quonatus wins the game.
