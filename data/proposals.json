@@ -751,6 +751,7 @@
 			"votes": {
 				"151149148639330304": 1,
 				"160279332454006795": 1,
+				"309787486278909952": 0,
 				"316957310985568256": 1
 			},
 			"timestamp": 1604465920
@@ -759,7 +760,7 @@
 			"n": 50,
 			"author": 151149148639330304,
 			"content": "This game sucks, start #12 already. It's neither interesting nor humorous to play when all you say is twisted to the whim of a fake bot.\nI know you're going to edit this to make some sorta random bs but idc. I quit this game. The end.",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 773413425656758285,
 			"votes": {
 				"151149148639330304": -1,
@@ -773,7 +774,7 @@
 			"n": 51,
 			"author": 331320482047721472,
 			"content": "Delete proposal #50 (fifty)",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 773424568144232448,
 			"votes": {
 				"151149148639330304": 0,
@@ -783,6 +784,18 @@
 				"331320482047721472": 1
 			},
 			"timestamp": 1604469192
+		},
+		{
+			"n": 52,
+			"author": 309787486278909952,
+			"content": "Change the content of %opinion-polls (wording and spelling):\n> Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\". An opinion poll must be clearly labelled as such.\n> \n> A player may only create an opinion poll if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are \ud83d\udc4d and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.",
+			"status": "voting",
+			"message_id": 773680628692025364,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1604530242
 		}
 	]
 }
