@@ -486,6 +486,4 @@ Change the content of %opinion-polls:
 > Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls". An opinion poll must be clearly labelled as such.
 > 
 > A player may only create an opinion poll if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are 👍 and 👎, but the opinion poll may specify different allowed reactions for itself.
-> 
-> An opinion poll is open when first posted and closes after the duration of time specified in the poll, or 48 hours if unspecified.
 
