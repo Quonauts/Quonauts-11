@@ -377,7 +377,7 @@ Create a new rule %opinion-polls ("Opinion polls") under %polls with the followi
 
 <a name='38'/>
 
-## #38
+## #38 — Failed
 
 All players gain 2 points.
 
