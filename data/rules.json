@@ -8,7 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				771607778912501761
+				773409303221764127
 			]
 		},
 		"bots": {
@@ -18,7 +18,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				771607799645208597
+				773409324751650838
 			]
 		},
 		"channels": {
@@ -35,7 +35,7 @@
 				"trades"
 			],
 			"message_ids": [
-				771607823750660096
+				773409348751720458
 			]
 		},
 		"closing-proposals": {
@@ -47,7 +47,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				771607864862441483
+				773409389926678538
 			]
 		},
 		"conflict-resolution": {
@@ -57,7 +57,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				771607845154193408
+				773409369575522345
 			]
 		},
 		"content": {
@@ -67,7 +67,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				771607802509656064
+				773409327670362113
 			]
 		},
 		"deleting-proposals": {
@@ -77,7 +77,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				771607866850148363
+				773409391440560138
 			]
 		},
 		"dependency-resolution": {
@@ -87,7 +87,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				771607846071828480
+				773409370774962247
 			]
 		},
 		"editing-proposals": {
@@ -97,7 +97,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				771607867844722698
+				773409392246521866
 			]
 		},
 		"forbidden-actions": {
@@ -107,7 +107,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				771607780989468682
+				773409305117589506
 			]
 		},
 		"formatting": {
@@ -117,7 +117,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				771607822894104586
+				773409347941564426
 			]
 		},
 		"general": {
@@ -127,7 +127,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				771607824320561165
+				773409349200117781
 			]
 		},
 		"glossary": {
@@ -137,7 +137,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				771607778069577728
+				773409302794469446
 			]
 		},
 		"headers-and-tags": {
@@ -147,7 +147,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				771607820826968064
+				773409346264367114
 			]
 		},
 		"lists": {
@@ -157,7 +157,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				771607821871480832
+				773409347022880768
 			]
 		},
 		"meta-rules": {
@@ -176,7 +176,7 @@
 				"style-conventions"
 			],
 			"message_ids": [
-				771607777050886175
+				773409301644443669
 			]
 		},
 		"opinion-polls": {
@@ -186,7 +186,7 @@
 			"parent_tag": "polls",
 			"child_tags": [],
 			"message_ids": [
-				773403015004422175
+				773409413507579924
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -196,7 +196,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				771607866246561812
+				773409390719926302
 			]
 		},
 		"points": {
@@ -206,7 +206,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				773403037083107328
+				773409435854831646
 			]
 		},
 		"polls": {
@@ -219,7 +219,7 @@
 				"opinion-polls"
 			],
 			"message_ids": [
-				771607887281782814
+				773409411753312276
 			]
 		},
 		"precedence": {
@@ -229,7 +229,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				771607779952820236
+				773409304479793162
 			]
 		},
 		"proposal-content": {
@@ -242,7 +242,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				771607843936665661
+				773409369051889724
 			]
 		},
 		"proposals": {
@@ -258,7 +258,7 @@
 				"editing-proposals"
 			],
 			"message_ids": [
-				771607843291267122
+				773409368100175892
 			]
 		},
 		"quantities": {
@@ -271,7 +271,7 @@
 				"points"
 			],
 			"message_ids": [
-				773403017605152769
+				773409433769345077
 			]
 		},
 		"resources": {
@@ -281,7 +281,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				773403018677846067
+				773409434990280704
 			]
 		},
 		"root": {
@@ -297,9 +297,9 @@
 				"weighted-sets"
 			],
 			"message_ids": [
-				773403039796559924,
-				773403040652591105,
-				773403058985500672
+				773409456272441354,
+				773409457408442398,
+				773409458495422505
 			]
 		},
 		"rule-content": {
@@ -309,7 +309,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				771607800756437012
+				773409325900234782
 			]
 		},
 		"rule-violation-polls": {
@@ -319,7 +319,7 @@
 			"parent_tag": "polls",
 			"child_tags": [],
 			"message_ids": [
-				771607888208199680
+				773409412542890004
 			]
 		},
 		"rules": {
@@ -329,7 +329,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				771607868629581844
+				773409392711303169
 			]
 		},
 		"style-conventions": {
@@ -344,7 +344,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				771607801357140009
+				773409326818787378
 			]
 		},
 		"timezones": {
@@ -354,7 +354,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				771607799036903424
+				773409324097077248
 			]
 		},
 		"trades": {
@@ -364,7 +364,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				773403016782544906
+				773409415440629760
 			]
 		},
 		"transactions": {
@@ -374,7 +374,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				773403015943421962
+				773409414279462912
 			]
 		},
 		"voting-on-proposals": {
@@ -384,7 +384,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				771607846886178846
+				773409371480784917
 			]
 		},
 		"weighted-sets": {
@@ -394,7 +394,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				773403038869356604
+				773409437757997056
 			]
 		},
 		"winning": {
@@ -404,7 +404,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				773403038038884352
+				773409436685041664
 			]
 		}
 	}

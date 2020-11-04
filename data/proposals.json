@@ -739,6 +739,17 @@
 				"309787486278909952": 0
 			},
 			"timestamp": 1604446145
+		},
+		{
+			"n": 49,
+			"author": 151149148639330304,
+			"content": "Create a new rule %classes (\"Classes\") with the following contents:\n> For each subsection of this rule, there exists a class with the same name and a corresponding role on the Discord server.\n> \n> In the game state, each player is either a member of no class or a member of exactly one class. At any time, a player who is not a member of a class may join a class of their choosing. A player's class may be changed by a proposal.\n> \n> Classes have different actions and abilities which can only be done by their respective members.",
+			"status": "voting",
+			"message_id": 773410846906777600,
+			"votes": {
+				"151149148639330304": 1
+			},
+			"timestamp": 1604465920
 		}
 	]
 }
