@@ -566,7 +566,7 @@
 			"n": 37,
 			"author": 151149148639330304,
 			"content": "Create a new rule %opinion-polls (\"Opinion polls\") under %polls with the following contents:\n> Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\". An opinion poll must be clearly labeled as such.\n> \n> An opinion poll may only be created if and only if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are \ud83d\udc4d and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 772663018424500224,
 			"votes": {
 				"151149148639330304": 1,
@@ -681,6 +681,7 @@
 			"message_id": 773216352646725653,
 			"votes": {
 				"151149148639330304": 1,
+				"261243340752814085": -1,
 				"309787486278909952": -1,
 				"316957310985568256": -1
 			},
@@ -706,6 +707,7 @@
 			"votes": {
 				"151149148639330304": 1,
 				"160279332454006795": -1,
+				"261243340752814085": 0,
 				"309787486278909952": -1,
 				"316957310985568256": 0,
 				"421060058009305088": -1
