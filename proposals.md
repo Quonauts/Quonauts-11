@@ -368,7 +368,7 @@ Replace the contents of %rule-violation-polls with the following:
 
 <a name='37'/>
 
-## #37
+## #37 — Passed
 
 Create a new rule %opinion-polls ("Opinion polls") under %polls with the following contents:
 > Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls". An opinion poll must be clearly labeled as such.
