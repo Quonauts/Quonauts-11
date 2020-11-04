@@ -457,3 +457,14 @@ Pass proposal #48 immediately.
 Create a new rule %proposal-8 ("Proposal 8") with the following contents:
 > Proposal 42 cannot be closed.
 
+<a name='49'/>
+
+## #49
+
+Create a new rule %classes ("Classes") with the following contents:
+> For each subsection of this rule, there exists a class with the same name and a corresponding role on the Discord server.
+> 
+> In the game state, each player is either a member of no class or a member of exactly one class. At any time, a player who is not a member of a class may join a class of their choosing. A player's class may be changed by a proposal.
+> 
+> Classes have different actions and abilities which can only be done by their respective members.
+
