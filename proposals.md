@@ -477,7 +477,7 @@ I know you're going to edit this to make some sorta random bs but idc. I quit th
 
 <a name='51'/>
 
-## #51
+## #51 — Passed
 
 Delete proposal #50 (fifty)
 
