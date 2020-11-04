@@ -29,6 +29,7 @@
     * [**2.3. #rules**](#rules)
     * [**2.4. #polls**](#polls)
         * [**2.4.1. Rule violation polls**](#rule-violation-polls)
+        * [**2.4.2. Opinion polls**](#opinion-polls)
     * [**2.5. #transactions**](#transactions)
     * [**2.6. #trades**](#trades)
 * [**3. Quantities**](#quantities)
@@ -256,6 +257,12 @@ In a rule violation poll, any votes cast by the accused player or the author are
 If the poll passes, the rule violation and its consequences must be reverted.
 
 If the poll passes and more votes are in favour of a strike (👍 reactions) than against (🤷 and 👎 reactions), the accused player may not perform any game actions for the next 24 hours.
+
+#### <a name='opinion-polls'/> Opinion polls
+
+Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls". An opinion poll must be clearly labeled as such.
+
+An opinion poll may only be created if and only if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are 👍 and 👎, but the opinion poll may specify different allowed reactions for itself.
 
 ### <a name='transactions'/> #transactions
 
