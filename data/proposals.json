@@ -702,7 +702,7 @@
 			"n": 46,
 			"author": 151149148639330304,
 			"content": "Append the following to %winning:\n> The player who obtains the legendary artifact known as the Quonatus wins the game.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 773252727475798027,
 			"votes": {
 				"151149148639330304": 1,
@@ -758,7 +758,8 @@
 			"status": "voting",
 			"message_id": 773413425656758285,
 			"votes": {
-				"151149148639330304": 1
+				"151149148639330304": 1,
+				"309787486278909952": -1
 			},
 			"timestamp": 1604466535
 		},
@@ -769,6 +770,7 @@
 			"status": "voting",
 			"message_id": 773424568144232448,
 			"votes": {
+				"309787486278909952": 1,
 				"331320482047721472": 1
 			},
 			"timestamp": 1604469192
