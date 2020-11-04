@@ -475,3 +475,9 @@ Create a new rule %classes ("Classes") with the following contents:
 This game sucks, start #12 already. It's neither interesting nor humorous to play when all you say is twisted to the whim of a fake bot.
 I know you're going to edit this to make some sorta random bs but idc. I quit this game. The end.
 
+<a name='51'/>
+
+## #51
+
+Delete proposal #50 (fifty)
+
