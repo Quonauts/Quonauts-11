@@ -487,3 +487,9 @@ Change the content of %opinion-polls (wording and spelling):
 > 
 > A player may only create an opinion poll if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are 👍 and 👎, but the opinion poll may specify different allowed reactions for itself.
 
+<a name='53'/>
+
+## #53
+
+give me all points in circulation
+
