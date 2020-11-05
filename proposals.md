@@ -422,7 +422,7 @@ i will return them in unspecified time period
 
 <a name='44'/>
 
-## #44
+## #44 — Failed
 
 Create a new tradable quantity "dogecoin" (alias: "doge").
 
