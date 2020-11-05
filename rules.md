@@ -175,9 +175,11 @@ If multiple proposals describe the modification or addition of sections, paragra
 
 ##### <a name='dependency-resolution'/> Dependency resolution
 
-A proposal may state that it depends on other proposals, meaning that proposal will fail if any proposal it depends on fails.
+This rule overrides %closing-proposals and %passing-and-failing-proposals.
 
-A proposal may also state it is incompatible with other proposals, in which case that proposal will fail if any proposal it is incompatible with passes.
+A proposal may state that it depends on other proposals (called its dependencies), in which case that proposal cannot be closed until all of its dependencies have passed or until any of its dependencies have failed, and that proposal cannot be passed unless all of its dependencies have passed.
+
+A proposal may also state it is incompatible with other proposals (called its incompatibilities), in which case that proposal cannot be closed until all of its incompatibilities have failed or until any of its incompatibilities have passed, and that proposal cannot be passed unless all of its incompatibilities have failed.
 
 #### <a name='voting-on-proposals'/> Voting on proposals
 
