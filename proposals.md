@@ -400,7 +400,7 @@ All players, not including the author of this proposal and the player who enacte
 
 <a name='41'/>
 
-## #41
+## #41 — Failed
 
 All players, not including the author of this proposal and the player who enacted it, gain 2 points. The player who enacted this proposal gains 1 point if that player is not the author of this proposal.
 
