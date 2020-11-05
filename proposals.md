@@ -383,7 +383,7 @@ All players gain 2 points.
 
 <a name='39'/>
 
-## #39
+## #39 — Passed
 
 Replace the contents of %dependency-resolution with:
 > This rule overrides %closing-proposals and %passing-and-failing-proposals.
