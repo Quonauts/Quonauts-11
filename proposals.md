@@ -394,7 +394,7 @@ Replace the contents of %dependency-resolution with:
 
 <a name='40'/>
 
-## #40
+## #40 — Failed
 
 All players, not including the author of this proposal and the player who enacted it, gain 2 points. The player who enacted this proposal gains 1 point.
 
