@@ -446,7 +446,7 @@ Append the following to %winning:
 
 <a name='47'/>
 
-## #47
+## #47 — Failed
 
 Pass proposal #48 immediately.
 
