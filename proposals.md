@@ -480,7 +480,7 @@ Delete proposal #50 (fifty)
 
 <a name='52'/>
 
-## #52
+## #52 — Passed
 
 Change the content of %opinion-polls (wording and spelling):
 > Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls". An opinion poll must be clearly labelled as such.
