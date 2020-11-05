@@ -182,7 +182,7 @@
 		"opinion-polls": {
 			"tag": "opinion-polls",
 			"title": "Opinion polls",
-			"content": "Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\". An opinion poll must be clearly labeled as such.\n\nAn opinion poll may only be created if and only if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are \ud83d\udc4d and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.",
+			"content": "Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\". An opinion poll must be clearly labelled as such.\n\nA player may only create an opinion poll if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are :+1: and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.",
 			"parent_tag": "polls",
 			"child_tags": [],
 			"message_ids": [

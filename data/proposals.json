@@ -789,7 +789,7 @@
 			"n": 52,
 			"author": 309787486278909952,
 			"content": "Change the content of %opinion-polls (wording and spelling):\n> Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\". An opinion poll must be clearly labelled as such.\n> \n> A player may only create an opinion poll if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are \ud83d\udc4d and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 773680628692025364,
 			"votes": {
 				"151149148639330304": 1,
@@ -822,6 +822,7 @@
 			"status": "voting",
 			"message_id": 773902086810894336,
 			"votes": {
+				"309787486278909952": -1,
 				"316957310985568256": 0
 			},
 			"timestamp": 1604583042
