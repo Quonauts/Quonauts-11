@@ -753,7 +753,8 @@
 				"151149148639330304": 1,
 				"160279332454006795": 1,
 				"309787486278909952": 0,
-				"316957310985568256": 1
+				"316957310985568256": 1,
+				"529362061658947584": 1
 			},
 			"timestamp": 1604465920
 		},
@@ -806,7 +807,7 @@
 			"n": 53,
 			"author": 331320482047721472,
 			"content": "give me all points in circulation",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 773803952486744104,
 			"votes": {
 				"151149148639330304": -1,
@@ -829,9 +830,24 @@
 				"151149148639330304": -1,
 				"309787486278909952": -1,
 				"316957310985568256": 0,
-				"357197641580544000": -1
+				"357197641580544000": -1,
+				"529362061658947584": -1
 			},
 			"timestamp": 1604583042
+		},
+		{
+			"n": 55,
+			"author": 160279332454006795,
+			"content": "Create a new rule \"beware the apioforms\\nthey strike at night\\nyou will never see them coming\" below all other rules:\n> A player may have the property of being \"apioformic\". This is a binary value, and this is part of the game state.",
+			"status": "voting",
+			"message_id": 774000197633179678,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 0,
+				"332271551481118732": 1,
+				"529362061658947584": 1
+			},
+			"timestamp": 1604606434
 		}
 	]
 }
