@@ -452,7 +452,7 @@ Pass proposal #48 immediately.
 
 <a name='48'/>
 
-## #48
+## #48 — Passed
 
 Create a new rule %proposal-8 ("Proposal 8") with the following contents:
 > Proposal 42 cannot be closed.
