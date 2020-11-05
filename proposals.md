@@ -493,3 +493,9 @@ Change the content of %opinion-polls (wording and spelling):
 
 give me all points in circulation
 
+<a name='54'/>
+
+## #54
+
+<@!331320482047721472> may not propose proposals until a day after the passing of proposal proposal 54
+
