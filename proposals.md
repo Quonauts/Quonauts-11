@@ -489,7 +489,7 @@ Change the content of %opinion-polls (wording and spelling):
 
 <a name='53'/>
 
-## #53
+## #53 — Failed
 
 give me all points in circulation
 
