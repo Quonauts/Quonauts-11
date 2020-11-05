@@ -37,6 +37,7 @@
     * [**3.2. Points**](#points)
 * [**4. Winning**](#winning)
 * [**5. Weighted Sets**](#weighted-sets)
+* [**6. Proposal 8**](#proposal-8)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -353,4 +354,8 @@ For example, if action A had a weight of 3, action B had a weight of 2 and actio
 When the weighted set is "triggered", take a random number between 1 and the maximum number in any range of any action. The action to be taken is whichever action has a range containing the number chosen.
 
 What it means for an action to be taken is to be defined by the rule specifying the weighted set. It is strongly recommended, but not mandatory, that the rule shows the ranges for each action clearly.
+
+## <a name='proposal-8'/> Proposal 8
+
+Proposal 42 cannot be closed.
 
