@@ -83,7 +83,7 @@
 		"dependency-resolution": {
 			"tag": "dependency-resolution",
 			"title": "Dependency resolution",
-			"content": "A proposal may state that it depends on other proposals, meaning that proposal will fail if any proposal it depends on fails.\n\nA proposal may also state it is incompatible with other proposals, in which case that proposal will fail if any proposal it is incompatible with passes.",
+			"content": "This rule overrides %closing-proposals and %passing-and-failing-proposals.\n\nA proposal may state that it depends on other proposals (called its dependencies), in which case that proposal cannot be closed until all of its dependencies have passed or until any of its dependencies have failed, and that proposal cannot be passed unless all of its dependencies have passed.\n\nA proposal may also state it is incompatible with other proposals (called its incompatibilities), in which case that proposal cannot be closed until all of its incompatibilities have failed or until any of its incompatibilities have passed, and that proposal cannot be passed unless all of its incompatibilities have failed.",
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
