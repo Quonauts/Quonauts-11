@@ -459,7 +459,7 @@ Create a new rule %proposal-8 ("Proposal 8") with the following contents:
 
 <a name='49'/>
 
-## #49
+## #49 — Passed
 
 Create a new rule %classes ("Classes") with the following contents:
 > For each subsection of this rule, there exists a class with the same name and a corresponding role on the Discord server.
