@@ -719,7 +719,7 @@
 			"n": 47,
 			"author": 160279332454006795,
 			"content": "Pass proposal #48 immediately.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 773325923041935401,
 			"votes": {
 				"151149148639330304": 1,
@@ -733,7 +733,7 @@
 			"n": 48,
 			"author": 151149148639330304,
 			"content": "Create a new rule %proposal-8 (\"Proposal 8\") with the following contents:\n> Proposal 42 cannot be closed.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 773327905152827434,
 			"votes": {
 				"151149148639330304": 1,

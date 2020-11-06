@@ -232,6 +232,16 @@
 				773409304479793162
 			]
 		},
+		"proposal-8": {
+			"tag": "proposal-8",
+			"title": "Proposal 8",
+			"content": "Proposal 42 cannot be closed.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				774058150944440373
+			]
+		},
 		"proposal-content": {
 			"tag": "proposal-content",
 			"title": "Proposal content",
@@ -294,12 +304,13 @@
 				"channels",
 				"quantities",
 				"winning",
-				"weighted-sets"
+				"weighted-sets",
+				"proposal-8"
 			],
 			"message_ids": [
-				773409456272441354,
-				773409457408442398,
-				773409458495422505
+				774058152500265030,
+				774058153171877922,
+				774058154648535051
 			]
 		},
 		"rule-content": {
