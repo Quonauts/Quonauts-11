@@ -38,6 +38,16 @@
 				773409348751720458
 			]
 		},
+		"classes": {
+			"tag": "classes",
+			"title": "Classes",
+			"content": "For each subsection of this rule, there exists a class with the same name and a corresponding role on the Discord server.\n\nIn the game state, each player is either a member of no class or a member of exactly one class. At any time, a player who is not a member of a class may join a class of their choosing. A player's class may be changed by a proposal.\n\nClasses have different actions and abilities which can only be done by their respective members.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				774386424518541364
+			]
+		},
 		"closing-proposals": {
 			"tag": "closing-proposals",
 			"title": "Closing proposals",
@@ -305,12 +315,13 @@
 				"quantities",
 				"winning",
 				"weighted-sets",
-				"proposal-8"
+				"proposal-8",
+				"classes"
 			],
 			"message_ids": [
-				774058152500265030,
-				774058153171877922,
-				774058154648535051
+				774386427991425025,
+				774386428876554272,
+				774386430062755900
 			]
 		},
 		"rule-content": {

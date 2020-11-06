@@ -747,7 +747,7 @@
 			"n": 49,
 			"author": 151149148639330304,
 			"content": "Create a new rule %classes (\"Classes\") with the following contents:\n> For each subsection of this rule, there exists a class with the same name and a corresponding role on the Discord server.\n> \n> In the game state, each player is either a member of no class or a member of exactly one class. At any time, a player who is not a member of a class may join a class of their choosing. A player's class may be changed by a proposal.\n> \n> Classes have different actions and abilities which can only be done by their respective members.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 773410846906777600,
 			"votes": {
 				"151149148639330304": 1,
@@ -880,6 +880,17 @@
 				"421060058009305088": -1
 			},
 			"timestamp": 1604671138
+		},
+		{
+			"n": 58,
+			"author": 309787486278909952,
+			"content": "Edit %glossary, changing\n> Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; and every message or reaction in any game channel.\nto\n> Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every message or reaction in any game channel; and every player's class or lack thereof.\n\nAppend to %classes:\n> The points usually received for authoring or enacting a passed proposal (as per [%points]) are not received for a proposal that only changes a player's class.",
+			"status": "voting",
+			"message_id": 774388253138616330,
+			"votes": {
+				"309787486278909952": 1
+			},
+			"timestamp": 1604698955
 		}
 	]
 }
