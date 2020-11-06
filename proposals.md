@@ -495,7 +495,7 @@ give me all points in circulation
 
 <a name='54'/>
 
-## #54
+## #54 — Failed
 
 <@!331320482047721472> may not propose proposals until a day after the passing of proposal proposal 54
 
