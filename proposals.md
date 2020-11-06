@@ -518,3 +518,15 @@ Create a new rule "beware the apioforms\nthey strike at night\nyou will never se
 
 Create a new rule named "".
 
+<a name='58'/>
+
+## #58
+
+Edit %glossary, changing
+> Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; and every message or reaction in any game channel.
+to
+> Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every message or reaction in any game channel; and every player's class or lack thereof.
+
+Append to %classes:
+> The points usually received for authoring or enacting a passed proposal (as per [%points]) are not received for a proposal that only changes a player's class.
+
