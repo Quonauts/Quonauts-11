@@ -824,7 +824,7 @@
 			"n": 54,
 			"author": 421060058009305088,
 			"content": "<@!331320482047721472> may not propose proposals until a day after the passing of proposal proposal 54",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 773902086810894336,
 			"votes": {
 				"151149148639330304": -1,
@@ -873,7 +873,9 @@
 			"status": "voting",
 			"message_id": 774271583598018591,
 			"votes": {
-				"160279332454006795": 1
+				"160279332454006795": 1,
+				"309787486278909952": -1,
+				"421060058009305088": -1
 			},
 			"timestamp": 1604671138
 		}
