@@ -899,7 +899,9 @@
 			"content": "remove 0 points from <@!331320482047721472>",
 			"status": "voting",
 			"message_id": 774508614140035103,
-			"votes": {},
+			"votes": {
+				"151149148639330304": -1
+			},
 			"timestamp": 1604727652
 		}
 	]
