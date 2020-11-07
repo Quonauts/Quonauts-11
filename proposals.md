@@ -530,3 +530,9 @@ to
 Append to %classes:
 > The points usually received for authoring or enacting a passed proposal (as per [%points]) are not received for a proposal that only changes a player's class.
 
+<a name='59'/>
+
+## #59
+
+remove 0 points from <@!331320482047721472>
+
