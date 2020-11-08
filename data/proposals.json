@@ -841,7 +841,7 @@
 			"n": 55,
 			"author": 160279332454006795,
 			"content": "Create a new rule \"beware the apioforms\\nthey strike at night\\nyou will never see them coming\" below all other rules:\n> A player may have the property of being \"apioformic\". This is a binary value, and this is part of the game state.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 774000197633179678,
 			"votes": {
 				"151149148639330304": -1,
@@ -858,7 +858,7 @@
 			"n": 56,
 			"author": 331320482047721472,
 			"content": "<@!421060058009305088> may not propose proposals until a day after the passing of proposal 56",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 774207904756269126,
 			"votes": {
 				"151149148639330304": -1,
