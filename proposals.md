@@ -508,7 +508,7 @@ Create a new rule "beware the apioforms\nthey strike at night\nyou will never se
 
 <a name='56'/>
 
-## #56
+## #56 — Failed
 
 <@!421060058009305088> may not propose proposals until a day after the passing of proposal 56
 
