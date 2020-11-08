@@ -39,6 +39,7 @@
 * [**5. Weighted Sets**](#weighted-sets)
 * [**6. Proposal 8**](#proposal-8)
 * [**7. Classes**](#classes)
+* [**8. beware the apioforms\nthey strike at night\nyou will never see them coming**](#apioforms)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -367,4 +368,8 @@ For each subsection of this rule, there exists a class with the same name and a 
 In the game state, each player is either a member of no class or a member of exactly one class. At any time, a player who is not a member of a class may join a class of their choosing. A player's class may be changed by a proposal.
 
 Classes have different actions and abilities which can only be done by their respective members.
+
+## <a name='apioforms'/> beware the apioforms\nthey strike at night\nyou will never see them coming
+
+A player may have the property of being "apioformic". This is a binary value, and this is part of the game state.
 
