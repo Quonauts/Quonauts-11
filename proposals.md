@@ -501,7 +501,7 @@ give me all points in circulation
 
 <a name='55'/>
 
-## #55
+## #55 — Passed
 
 Create a new rule "beware the apioforms\nthey strike at night\nyou will never see them coming" below all other rules:
 > A player may have the property of being "apioformic". This is a binary value, and this is part of the game state.
