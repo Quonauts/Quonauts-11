@@ -912,6 +912,17 @@
 				"421060058009305088": -1
 			},
 			"timestamp": 1604727652
+		},
+		{
+			"n": 60,
+			"author": 331320482047721472,
+			"content": "<@!331320482047721472> may not propose proposals until a day after the passing of proposal 60",
+			"status": "voting",
+			"message_id": 774931130716520518,
+			"votes": {
+				"331320482047721472": 1
+			},
+			"timestamp": 1604828388
 		}
 	]
 }
