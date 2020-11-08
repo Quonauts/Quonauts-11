@@ -536,3 +536,9 @@ Append to %classes:
 
 remove 0 points from <@!331320482047721472>
 
+<a name='60'/>
+
+## #60
+
+<@!331320482047721472> may not propose proposals until a day after the passing of proposal 60
+
