@@ -873,7 +873,7 @@
 			"n": 57,
 			"author": 160279332454006795,
 			"content": "Create a new rule named \"\".",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 774271583598018591,
 			"votes": {
 				"151149148639330304": -1,
@@ -888,7 +888,7 @@
 			"n": 58,
 			"author": 309787486278909952,
 			"content": "Edit %glossary, changing\n> Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; and every message or reaction in any game channel.\nto\n> Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every message or reaction in any game channel; and every player's class or lack thereof.\n\nAppend to %classes:\n> The points usually received for authoring or enacting a passed proposal (as per [%points]) are not received for a proposal that only changes a player's class.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 774388253138616330,
 			"votes": {
 				"151149148639330304": 1,
@@ -902,7 +902,7 @@
 			"n": 59,
 			"author": 331320482047721472,
 			"content": "remove 0 points from <@!331320482047721472>",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 774508614140035103,
 			"votes": {
 				"151149148639330304": -1,
