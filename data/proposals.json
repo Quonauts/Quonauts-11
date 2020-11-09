@@ -921,9 +921,19 @@
 			"message_id": 774931130716520518,
 			"votes": {
 				"316957310985568256": 0,
-				"331320482047721472": 1
+				"331320482047721472": 1,
+				"421060058009305088": 0
 			},
 			"timestamp": 1604828388
+		},
+		{
+			"n": 61,
+			"author": 421060058009305088,
+			"content": "<@!421060058009305088> loses two points as a punishment for this proposal being a \"spam\" proposal",
+			"status": "voting",
+			"message_id": 775151942552387595,
+			"votes": {},
+			"timestamp": 1604881035
 		}
 	]
 }
