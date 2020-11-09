@@ -932,7 +932,9 @@
 			"content": "<@!421060058009305088> loses two points as a punishment for this proposal being a \"spam\" proposal",
 			"status": "voting",
 			"message_id": 775151942552387595,
-			"votes": {},
+			"votes": {
+				"160279332454006795": -1
+			},
 			"timestamp": 1604881035
 		}
 	]
