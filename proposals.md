@@ -542,3 +542,9 @@ remove 0 points from <@!331320482047721472>
 
 <@!331320482047721472> may not propose proposals until a day after the passing of proposal 60
 
+<a name='61'/>
+
+## #61
+
+<@!421060058009305088> loses two points as a punishment for this proposal being a "spam" proposal
+
