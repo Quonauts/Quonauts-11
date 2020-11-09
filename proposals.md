@@ -532,7 +532,7 @@ Append to %classes:
 
 <a name='59'/>
 
-## #59
+## #59 — Failed
 
 remove 0 points from <@!331320482047721472>
 
