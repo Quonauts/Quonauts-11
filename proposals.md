@@ -520,7 +520,7 @@ Create a new rule named "".
 
 <a name='58'/>
 
-## #58
+## #58 — Passed
 
 Edit %glossary, changing
 > Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; and every message or reaction in any game channel.
