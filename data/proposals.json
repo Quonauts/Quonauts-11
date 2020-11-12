@@ -917,10 +917,11 @@
 			"n": 60,
 			"author": 331320482047721472,
 			"content": "<@!331320482047721472> may not propose proposals until a day after the passing of proposal 60",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 774931130716520518,
 			"votes": {
 				"160279332454006795": -1,
+				"309787486278909952": -1,
 				"316957310985568256": 0,
 				"331320482047721472": 1,
 				"421060058009305088": 0
@@ -931,10 +932,11 @@
 			"n": 61,
 			"author": 421060058009305088,
 			"content": "<@!421060058009305088> loses two points as a punishment for this proposal being a \"spam\" proposal",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 775151942552387595,
 			"votes": {
 				"160279332454006795": -1,
+				"309787486278909952": 0,
 				"316957310985568256": 1,
 				"331320482047721472": -1
 			},
