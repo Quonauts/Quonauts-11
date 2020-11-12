@@ -544,7 +544,7 @@ remove 0 points from <@!331320482047721472>
 
 <a name='61'/>
 
-## #61
+## #61 — Failed
 
 <@!421060058009305088> loses two points as a punishment for this proposal being a "spam" proposal
 
