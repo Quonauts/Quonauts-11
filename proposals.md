@@ -406,7 +406,7 @@ All players, not including the author of this proposal and the player who enacte
 
 <a name='42'/>
 
-## #42
+## #42 — Failed
 
 get rich quick scheme
 give me all points
