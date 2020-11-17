@@ -949,7 +949,9 @@
 			"content": "<@!331320482047721472> loses 2 points",
 			"status": "voting",
 			"message_id": 778193199394455553,
-			"votes": {},
+			"votes": {
+				"309787486278909952": -1
+			},
 			"timestamp": 1605606135
 		}
 	]
