@@ -550,7 +550,7 @@ remove 0 points from <@!331320482047721472>
 
 <a name='62'/>
 
-## #62
+## #62 — Failed
 
 <@!331320482047721472> loses 2 points
 
