@@ -554,3 +554,9 @@ remove 0 points from <@!331320482047721472>
 
 <@!331320482047721472> loses 2 points
 
+<a name='63'/>
+
+## #63
+
+DEPLOY THE SPAM PROPOSALS
+
