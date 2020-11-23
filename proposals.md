@@ -560,3 +560,9 @@ remove 0 points from <@!331320482047721472>
 
 DEPLOY THE SPAM PROPOSALS
 
+<a name='64'/>
+
+## #64
+
+Make <@!258639553357676545> "apioformic", as described in the rule created by proposal #55.
+
