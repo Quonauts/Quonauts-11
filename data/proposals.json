@@ -645,7 +645,7 @@
 			"n": 42,
 			"author": 331320482047721472,
 			"content": "get rich quick scheme\ngive me all points\ni will return them in unspecified time period",
-			"status": "failed",
+			"status": "voting",
 			"message_id": 773153638721781791,
 			"votes": {
 				"151149148639330304": -1,
@@ -961,7 +961,7 @@
 			"n": 63,
 			"author": 421060058009305088,
 			"content": "DEPLOY THE SPAM PROPOSALS",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 779344369168941077,
 			"votes": {
 				"160279332454006795": -1,
