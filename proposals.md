@@ -556,7 +556,7 @@ remove 0 points from <@!331320482047721472>
 
 <a name='63'/>
 
-## #63
+## #63 — Failed
 
 DEPLOY THE SPAM PROPOSALS
 
