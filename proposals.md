@@ -573,3 +573,9 @@ Make <@!258639553357676545> "apioformic", as described in the rule created by pr
 Add a new rule %sacred:
 > proposal no. 42 may never be closed.
 
+<a name='66'/>
+
+## #66
+
+Delete rule %apioforms.
+
