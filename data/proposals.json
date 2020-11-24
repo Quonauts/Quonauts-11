@@ -992,8 +992,21 @@
 			"content": "Add a new rule %sacred:\n> proposal no. 42 may never be closed.",
 			"status": "voting",
 			"message_id": 780587763103301673,
-			"votes": {},
+			"votes": {
+				"151149148639330304": -1
+			},
 			"timestamp": 1606177025
+		},
+		{
+			"n": 66,
+			"author": 151149148639330304,
+			"content": "Delete rule %apioforms.",
+			"status": "voting",
+			"message_id": 780655784827682847,
+			"votes": {
+				"151149148639330304": 1
+			},
+			"timestamp": 1606193243
 		}
 	]
 }
