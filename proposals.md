@@ -575,7 +575,7 @@ Add a new rule %sacred:
 
 <a name='66'/>
 
-## #66
+## #66 — Passed
 
 Delete rule %apioforms.
 
