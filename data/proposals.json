@@ -1008,9 +1008,22 @@
 			"votes": {
 				"151149148639330304": 1,
 				"309787486278909952": 0,
-				"316957310985568256": 0
+				"316957310985568256": 0,
+				"421060058009305088": 0
 			},
 			"timestamp": 1606193243
+		},
+		{
+			"n": 67,
+			"author": 421060058009305088,
+			"content": "Come to theaters now to view THE SOUND OF SPOUTING\nthe great new film with the famous soundtrack featuring such songs as \"the heavs are alive\"!\n\nBuy your tickets before they sell out in a theater near you!",
+			"status": "voting",
+			"message_id": 780816946076975115,
+			"votes": {
+				"309787486278909952": -1,
+				"421060058009305088": 0
+			},
+			"timestamp": 1606231667
 		}
 	]
 }
