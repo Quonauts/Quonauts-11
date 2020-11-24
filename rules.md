@@ -39,7 +39,6 @@
 * [**5. Weighted Sets**](#weighted-sets)
 * [**6. Proposal 8**](#proposal-8)
 * [**7. Classes**](#classes)
-* [**8. beware the apioforms\nthey strike at night\nyou will never see them coming**](#apioforms)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -370,8 +369,4 @@ In the game state, each player is either a member of no class or a member of exa
 Classes have different actions and abilities which can only be done by their respective members.
 
 The points usually received for authoring or enacting a passed proposal (as per [**3.2. Points**](#points)) are not received for a proposal that only changes a player's class.
-
-## <a name='apioforms'/> beware the apioforms\nthey strike at night\nyou will never see them coming
-
-A player may have the property of being "apioformic". This is a binary value, and this is part of the game state.
 
