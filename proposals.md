@@ -566,3 +566,10 @@ DEPLOY THE SPAM PROPOSALS
 
 Make <@!258639553357676545> "apioformic", as described in the rule created by proposal #55.
 
+<a name='65'/>
+
+## #65
+
+Add a new rule %sacred:
+> proposal no. 42 may never be closed.
+
