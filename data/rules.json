@@ -11,16 +11,6 @@
 				780555140125687840
 			]
 		},
-		"apioforms": {
-			"tag": "apioforms",
-			"title": "beware the apioforms\\nthey strike at night\\nyou will never see them coming",
-			"content": "A player may have the property of being \"apioformic\". This is a binary value, and this is part of the game state.",
-			"parent_tag": "root",
-			"child_tags": [],
-			"message_ids": [
-				780555293897392138
-			]
-		},
 		"bots": {
 			"tag": "bots",
 			"title": "Bots",
@@ -326,8 +316,7 @@
 				"winning",
 				"weighted-sets",
 				"proposal-8",
-				"classes",
-				"apioforms"
+				"classes"
 			],
 			"message_ids": [
 				780555294958813234,
