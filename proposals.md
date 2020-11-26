@@ -606,3 +606,9 @@ I am in a crap mood
 
 Start quonauts 11 already
 
+<a name='71'/>
+
+## #71
+
+One player is evil. That player will be notified so by me.
+
