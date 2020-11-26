@@ -581,7 +581,7 @@ Delete rule %apioforms.
 
 <a name='67'/>
 
-## #67
+## #67 — Failed
 
 Come to theaters now to view THE SOUND OF SPOUTING
 the great new film with the famous soundtrack featuring such songs as "the heavs are alive"!
