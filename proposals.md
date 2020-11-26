@@ -562,7 +562,7 @@ DEPLOY THE SPAM PROPOSALS
 
 <a name='64'/>
 
-## #64
+## #64 — Passed
 
 Make <@!258639553357676545> "apioformic", as described in the rule created by proposal #55.
 
