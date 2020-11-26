@@ -975,7 +975,7 @@
 			"n": 64,
 			"author": 160279332454006795,
 			"content": "Make <@!258639553357676545> \"apioformic\", as described in the rule created by proposal #55.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 780554657138343956,
 			"votes": {
 				"151149148639330304": -1,
@@ -991,7 +991,7 @@
 			"n": 65,
 			"author": 421060058009305088,
 			"content": "Add a new rule %sacred:\n> proposal no. 42 may never be closed.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 780587763103301673,
 			"votes": {
 				"151149148639330304": -1,
@@ -1018,11 +1018,12 @@
 			"n": 67,
 			"author": 421060058009305088,
 			"content": "Come to theaters now to view THE SOUND OF SPOUTING\nthe great new film with the famous soundtrack featuring such songs as \"the heavs are alive\"!\n\nBuy your tickets before they sell out in a theater near you!",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 780816946076975115,
 			"votes": {
 				"151149148639330304": 1,
 				"309787486278909952": -1,
+				"316957310985568256": 1,
 				"364562317645709336": -1,
 				"421060058009305088": 0
 			},
@@ -1032,10 +1033,11 @@
 			"n": 68,
 			"author": 421060058009305088,
 			"content": "What if hornets literally bee crossbow aim fire hornet snake LITERALLY sesame street? What if bread crossbow literally canola oil crossbow? What if bread hornets literally bee catches fire catches fire canola oil crossbow? What if bees, and what if bread crossbow? What if oil crossbow crossbow? What if crossbow aim fire hornet crossbow crossbow crossbow? What if alphabet crossbow literally catches fire hornet? What if alphabet theory? What if heavpoot literally canola oil?",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 780875882079846482,
 			"votes": {
 				"151149148639330304": -1,
+				"316957310985568256": 1,
 				"364562317645709336": 0,
 				"421060058009305088": 0
 			},
@@ -1048,7 +1050,9 @@
 			"status": "voting",
 			"message_id": 781267542391128094,
 			"votes": {
-				"151149148639330304": -1
+				"151149148639330304": -1,
+				"309787486278909952": -1,
+				"316957310985568256": -1
 			},
 			"timestamp": 1606339099
 		},
@@ -1060,9 +1064,21 @@
 			"message_id": 781417613666025522,
 			"votes": {
 				"309787486278909952": -1,
+				"316957310985568256": -1,
 				"421060058009305088": -1
 			},
 			"timestamp": 1606374879
+		},
+		{
+			"n": 71,
+			"author": 316957310985568256,
+			"content": "One player is evil. That player will be notified so by me.",
+			"status": "voting",
+			"message_id": 781654327613587476,
+			"votes": {
+				"316957310985568256": 1
+			},
+			"timestamp": 1606431317
 		}
 	]
 }
