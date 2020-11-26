@@ -1057,7 +1057,9 @@
 			"content": "Start quonauts 11 already",
 			"status": "voting",
 			"message_id": 781417613666025522,
-			"votes": {},
+			"votes": {
+				"309787486278909952": -1
+			},
 			"timestamp": 1606374879
 		}
 	]
