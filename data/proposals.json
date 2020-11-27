@@ -1089,6 +1089,17 @@
 				"474424490382589952": 1
 			},
 			"timestamp": 1606431317
+		},
+		{
+			"n": 72,
+			"author": 421060058009305088,
+			"content": "the game ends immediately; all players lose.",
+			"status": "voting",
+			"message_id": 782029606781059083,
+			"votes": {
+				"421060058009305088": 1
+			},
+			"timestamp": 1606520791
 		}
 	]
 }
