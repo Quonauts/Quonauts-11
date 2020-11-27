@@ -612,3 +612,9 @@ Start quonauts 11 already
 
 One player is evil. That player will be notified so by me.
 
+<a name='72'/>
+
+## #72
+
+the game ends immediately; all players lose.
+
