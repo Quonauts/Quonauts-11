@@ -618,3 +618,9 @@ One player is evil. That player will be notified so by me.
 
 the game ends immediately; all players lose.
 
+<a name='73'/>
+
+## #73
+
+the game ends immediately; all players lose (except <@!331320482047721472>).
+
