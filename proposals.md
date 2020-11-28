@@ -602,7 +602,7 @@ I am in a crap mood
 
 <a name='70'/>
 
-## #70
+## #70 — Failed
 
 Start quonauts 11 already
 
