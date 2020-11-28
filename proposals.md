@@ -608,7 +608,7 @@ Start quonauts 11 already
 
 <a name='71'/>
 
-## #71
+## #71 — Failed
 
 One player is evil. That player will be notified so by me.
 
