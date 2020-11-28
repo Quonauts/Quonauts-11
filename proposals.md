@@ -614,7 +614,7 @@ One player is evil. That player will be notified so by me.
 
 <a name='72'/>
 
-## #72
+## #72 — Failed
 
 the game ends immediately; all players lose.
 
