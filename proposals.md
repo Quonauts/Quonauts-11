@@ -624,3 +624,10 @@ the game ends immediately; all players lose.
 
 the game ends immediately; all players lose (except <@!331320482047721472>).
 
+<a name='74'/>
+
+## #74
+
+add a new rule %helloboi:
+> Hello boi
+
