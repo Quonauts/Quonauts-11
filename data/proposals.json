@@ -1121,6 +1121,17 @@
 				"421060058009305088": 1
 			},
 			"timestamp": 1606553137
+		},
+		{
+			"n": 74,
+			"author": 331320482047721472,
+			"content": "add a new rule %helloboi:\n> Hello boi",
+			"status": "voting",
+			"message_id": 782467623811285002,
+			"votes": {
+				"331320482047721472": 1
+			},
+			"timestamp": 1606625224
 		}
 	]
 }
