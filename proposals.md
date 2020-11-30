@@ -631,3 +631,9 @@ the game ends immediately; all players lose (except <@!331320482047721472>).
 add a new rule %helloboi:
 > Hello boi
 
+<a name='75'/>
+
+## #75
+
+restart quonauts, with a goal to be active again.
+
