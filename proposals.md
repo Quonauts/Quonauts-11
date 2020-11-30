@@ -637,3 +637,9 @@ add a new rule %helloboi:
 
 restart quonauts, with a goal to be active again.
 
+<a name='76'/>
+
+## #76
+
+Quonauts 11: NEVER SETTLE
+
