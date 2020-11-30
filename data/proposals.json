@@ -1161,7 +1161,9 @@
 			"content": "Quonauts 11: NEVER SETTLE",
 			"status": "voting",
 			"message_id": 782909079269670964,
-			"votes": {},
+			"votes": {
+				"316957310985568256": 1
+			},
 			"timestamp": 1606730476
 		}
 	]
