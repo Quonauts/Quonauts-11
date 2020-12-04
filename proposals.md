@@ -671,3 +671,9 @@ ok pr 73 got passed game over
 
 everyone lost
 
+<a name='81'/>
+
+## #81
+
+except helloboi
+
