@@ -1110,7 +1110,7 @@
 			"n": 73,
 			"author": 331320482047721472,
 			"content": "the game ends immediately; all players lose (except <@!331320482047721472>).",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 782165275356168232,
 			"votes": {
 				"151149148639330304": -1,
@@ -1203,6 +1203,33 @@
 				"529362061658947584": 0
 			},
 			"timestamp": 1607040833
+		},
+		{
+			"n": 79,
+			"author": 421060058009305088,
+			"content": "ok pr 73 got passed game over",
+			"status": "voting",
+			"message_id": 784243147642896385,
+			"votes": {},
+			"timestamp": 1607048547
+		},
+		{
+			"n": 80,
+			"author": 421060058009305088,
+			"content": "everyone lost",
+			"status": "voting",
+			"message_id": 784243195604107285,
+			"votes": {},
+			"timestamp": 1607048558
+		},
+		{
+			"n": 81,
+			"author": 421060058009305088,
+			"content": "except helloboi",
+			"status": "voting",
+			"message_id": 784243213648527371,
+			"votes": {},
+			"timestamp": 1607048562
 		}
 	]
 }
