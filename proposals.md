@@ -650,3 +650,12 @@ Quonauts 11: NEVER SETTLE
 Append a sub-section named #h to %channels, that reads:
 > Any message that is not “h” (capital h is not allowed), is a violation of the rules.
 
+<a name='78'/>
+
+## #78
+
+This proposal is dependent on proposal 77.
+
+Append this text to #h
+> If anyone has “W” or “w” in their discord nickname, they are not allowed to see #h .
+
