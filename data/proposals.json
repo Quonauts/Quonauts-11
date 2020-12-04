@@ -1200,6 +1200,7 @@
 			"status": "voting",
 			"message_id": 784210796698927125,
 			"votes": {
+				"316957310985568256": 1,
 				"529362061658947584": 0
 			},
 			"timestamp": 1607040833
@@ -1210,7 +1211,9 @@
 			"content": "ok pr 73 got passed game over",
 			"status": "voting",
 			"message_id": 784243147642896385,
-			"votes": {},
+			"votes": {
+				"316957310985568256": -1
+			},
 			"timestamp": 1607048547
 		},
 		{
@@ -1219,7 +1222,9 @@
 			"content": "everyone lost",
 			"status": "voting",
 			"message_id": 784243195604107285,
-			"votes": {},
+			"votes": {
+				"316957310985568256": -1
+			},
 			"timestamp": 1607048558
 		},
 		{
@@ -1228,7 +1233,9 @@
 			"content": "except helloboi",
 			"status": "voting",
 			"message_id": 784243213648527371,
-			"votes": {},
+			"votes": {
+				"316957310985568256": -1
+			},
 			"timestamp": 1607048562
 		}
 	]
