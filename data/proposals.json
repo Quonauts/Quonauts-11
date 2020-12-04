@@ -1191,6 +1191,17 @@
 				"529362061658947584": 1
 			},
 			"timestamp": 1606779393
+		},
+		{
+			"n": 78,
+			"author": 529362061658947584,
+			"content": "This proposal is dependent on proposal 77.\n\nAppend this text to #h\n> If anyone has \u201cW\u201d or \u201cw\u201d in their discord nickname, they are not allowed to see #h .",
+			"status": "voting",
+			"message_id": 784210796698927125,
+			"votes": {
+				"529362061658947584": 0
+			},
+			"timestamp": 1607040833
 		}
 	]
 }
