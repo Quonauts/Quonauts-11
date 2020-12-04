@@ -659,3 +659,9 @@ This proposal is dependent on proposal 77.
 Append this text to #h
 > If anyone has “W” or “w” in their discord nickname, they are not allowed to see #h .
 
+<a name='79'/>
+
+## #79
+
+ok pr 73 got passed game over
+
