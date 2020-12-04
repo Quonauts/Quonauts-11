@@ -665,3 +665,9 @@ Append this text to #h
 
 ok pr 73 got passed game over
 
+<a name='80'/>
+
+## #80
+
+everyone lost
+
