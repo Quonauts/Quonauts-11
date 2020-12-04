@@ -620,7 +620,7 @@ the game ends immediately; all players lose.
 
 <a name='73'/>
 
-## #73
+## #73 — Passed
 
 the game ends immediately; all players lose (except <@!331320482047721472>).
 
