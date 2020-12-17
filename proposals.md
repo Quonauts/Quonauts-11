@@ -707,3 +707,25 @@ Quonauts 11
 
 testing replies
 
+<a name='87'/>
+
+## #87
+
+Update the contents of the rule "Glossary" to
+> The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and its subsections. A section may also define terms for use in the whole document.
+> 
+> * **The Game**: The instance of Nomic governed by these rules.
+> * **Game Channel**: Any text or voice channel listed under the "Game Channels" category of the Discord server.
+> * **Game Action**: Any modification of the game state.
+> * **Game State**: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every message or reaction in any game channel; and every player's class or lack thereof, the current state of the game being active or not.
+> * **The Rules**: The rules of the game, which are described by this document.
+> * **Section**: A part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.
+> * **Subsection**: A section contained within another another section.
+> * **Clause**: A single statement in the rules.
+> * **Player**: Any participant of the game who is a member of the Discord server.
+> * **Active Player**: Any player who has performed a game action in the preceding 72 hours.
+> * **Inactive Player**: Any player who is not an active player.
+> * **Reaction**: Unless otherwise specified, always refers to a Discord "reaction".
+> * **Reacting**: Unless otherwise specified, "reacting" to a message indicates adding a Discord "reaction" to the message.
+This adds the game's "active" state to the game state.
+
