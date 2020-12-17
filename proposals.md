@@ -729,3 +729,9 @@ Update the contents of the rule "Glossary" to
 > * **Reacting**: Unless otherwise specified, "reacting" to a message indicates adding a Discord "reaction" to the message.
 This adds the game's "active" state to the game state.
 
+<a name='88'/>
+
+## #88
+
+heav the game has ended
+
