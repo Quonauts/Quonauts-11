@@ -762,3 +762,9 @@ Update the contents of the rule "Glossary" to
 
 heavpoot must ping everyone
 
+<a name='91'/>
+
+## #91
+
+delete proposal 88
+
