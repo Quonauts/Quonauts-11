@@ -756,3 +756,9 @@ Update the contents of the rule "Glossary" to
 > * **Reaction**: Unless otherwise specified, always refers to a Discord "reaction".
 > * **Reacting**: Unless otherwise specified, "reacting" to a message indicates adding a Discord "reaction" to the message.
 
+<a name='90'/>
+
+## #90
+
+heavpoot must ping everyone
+
