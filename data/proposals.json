@@ -1189,6 +1189,7 @@
 				"309787486278909952": -1,
 				"316957310985568256": 1,
 				"331320482047721472": -1,
+				"421060058009305088": -1,
 				"529362061658947584": 1
 			},
 			"timestamp": 1606779393
@@ -1202,6 +1203,7 @@
 			"votes": {
 				"151149148639330304": -1,
 				"316957310985568256": 1,
+				"421060058009305088": -1,
 				"529362061658947584": 0
 			},
 			"timestamp": 1607040833
@@ -1238,9 +1240,138 @@
 			"message_id": 784243213648527371,
 			"votes": {
 				"151149148639330304": -1,
-				"316957310985568256": -1
+				"316957310985568256": 1
 			},
 			"timestamp": 1607048562
+		},
+		{
+			"n": 82,
+			"author": 421060058009305088,
+			"content": "so",
+			"status": "voting",
+			"message_id": 787396149132132363,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 0,
+				"316957310985568256": 1
+			},
+			"timestamp": 1607800276
+		},
+		{
+			"n": 83,
+			"author": 421060058009305088,
+			"content": "indefinite hiatus?",
+			"status": "voting",
+			"message_id": 787396777762095104,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"316957310985568256": 0
+			},
+			"timestamp": 1607800426
+		},
+		{
+			"n": 84,
+			"author": 160279332454006795,
+			"content": "All players gain 20 Triangles.",
+			"status": "voting",
+			"message_id": 787740300298682379,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"316957310985568256": 1,
+				"331320482047721472": 1,
+				"421060058009305088": -1,
+				"529362061658947584": 1
+			},
+			"timestamp": 1607882329
+		},
+		{
+			"n": 85,
+			"author": 331320482047721472,
+			"content": "Quonauts 11",
+			"status": "voting",
+			"message_id": 787908862106927114,
+			"votes": {
+				"151149148639330304": -1,
+				"316957310985568256": 0
+			},
+			"timestamp": 1607922518
+		},
+		{
+			"n": 86,
+			"author": 421060058009305088,
+			"content": "testing replies",
+			"status": "voting",
+			"message_id": 788031937859944478,
+			"votes": {
+				"151149148639330304": -1,
+				"316957310985568256": 0
+			},
+			"timestamp": 1607951862
+		},
+		{
+			"n": 87,
+			"author": 160279332454006795,
+			"content": "Update the contents of the rule \"Glossary\" to\n> The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and its subsections. A section may also define terms for use in the whole document.\n> \n> * **The Game**: The instance of Nomic governed by these rules.\n> * **Game Channel**: Any text or voice channel listed under the \"Game Channels\" category of the Discord server.\n> * **Game Action**: Any modification of the game state.\n> * **Game State**: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every message or reaction in any game channel; and every player's class or lack thereof, the current state of the game being active or not.\n> * **The Rules**: The rules of the game, which are described by this document.\n> * **Section**: A part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.\n> * **Subsection**: A section contained within another another section.\n> * **Clause**: A single statement in the rules.\n> * **Player**: Any participant of the game who is a member of the Discord server.\n> * **Active Player**: Any player who has performed a game action in the preceding 72 hours.\n> * **Inactive Player**: Any player who is not an active player.\n> * **Reaction**: Unless otherwise specified, always refers to a Discord \"reaction\".\n> * **Reacting**: Unless otherwise specified, \"reacting\" to a message indicates adding a Discord \"reaction\" to the message.\nThis adds the game's \"active\" state to the game state.",
+			"status": "voting",
+			"message_id": 789126023508656128,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"261243340752814085": 1,
+				"309787486278909952": 1,
+				"316957310985568256": 1,
+				"421060058009305088": -1
+			},
+			"timestamp": 1608212715
+		},
+		{
+			"n": 88,
+			"author": 421060058009305088,
+			"content": "heav the game has ended",
+			"status": "voting",
+			"message_id": 789147315147505675,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"293066066605768714": 1,
+				"316957310985568256": -1
+			},
+			"timestamp": 1608217792
+		},
+		{
+			"n": 89,
+			"author": 421060058009305088,
+			"content": "Update the contents of the rule \"Glossary\" to\n> The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and its subsections. A section may also define terms for use in the whole document.\n> \n> * **The Game**: An instance of Nomic governed by these rules.\n> * **Game Channel**: A randomly chosen text or voice channel listed under the \"Game Channels\" category of the Discord server.\n> * **Game Action**: A randomly chosen modification of the game state.\n> * **Game State**: Any current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every message or reaction in any game channel; and every player's class or lack thereof, the current state of the game being active or not.\n> * **The Rules**: A randomly chosen rule of the game, which are described by this document.\n> * **Section**: A randomly chosen part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.\n> * **Subsection**: Exactly one randomly chosen section contained within another another section.\n> * **Clause**: Exactly one randomly chosen single statement in the rules.\n> * **Player**: Exactly one randomly chosen participant of the game who is a member of the Discord server.\n> * **Active Player**: Exactly one randomly chosen player who has performed a game action in the preceding 72 hours.\n> * **Inactive Player**: Exactly one randomly chosen player who is not an active player.\n> * **Reaction**: Unless otherwise specified, always refers to a Discord \"reaction\".\n> * **Reacting**: Unless otherwise specified, \"reacting\" to a message indicates adding a Discord \"reaction\" to the message.",
+			"status": "voting",
+			"message_id": 789297978245775371,
+			"votes": {
+				"309787486278909952": -1
+			},
+			"timestamp": 1608253713
+		},
+		{
+			"n": 90,
+			"author": 421060058009305088,
+			"content": "heavpoot must ping everyone",
+			"status": "voting",
+			"message_id": 789298169413500950,
+			"votes": {
+				"309787486278909952": -1
+			},
+			"timestamp": 1608253759
+		},
+		{
+			"n": 91,
+			"author": 331320482047721472,
+			"content": "delete proposal 88",
+			"status": "voting",
+			"message_id": 789405527075192852,
+			"votes": {
+				"331320482047721472": 1
+			},
+			"timestamp": 1608279355
 		}
 	]
 }
