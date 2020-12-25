@@ -709,7 +709,7 @@ testing replies
 
 <a name='87'/>
 
-## #87
+## #87 — Passed
 
 Update the contents of the rule "Glossary" to
 > The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and its subsections. A section may also define terms for use in the whole document.
