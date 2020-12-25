@@ -51,7 +51,7 @@ The definitions for terms listed here take precedence over their normal English 
 * **The Game**: The instance of Nomic governed by these rules.
 * **Game Channel**: Any text or voice channel listed under the "Game Channels" category of the Discord server.
 * **Game Action**: Any modification of the game state.
-* **Game State**: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every message or reaction in any game channel; and every player's class or lack thereof.
+* **Game State**: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every message or reaction in any game channel; and every player's class or lack thereof, the current state of the game being active or not.
 * **The Rules**: The rules of the game, which are described by this document.
 * **Section**: A part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.
 * **Subsection**: A section contained within another another section.
