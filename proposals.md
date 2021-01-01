@@ -768,3 +768,9 @@ heavpoot must ping everyone
 
 delete proposal 88
 
+<a name='92'/>
+
+## #92
+
+celebrate the new year ( 2021 )
+
