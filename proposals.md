@@ -792,3 +792,9 @@ no, you lost
 
 why?
 
+<a name='96'/>
+
+## #96
+
+Everyone except helloboi lost
+
