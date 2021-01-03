@@ -1435,6 +1435,15 @@
 				"316957310985568256": 1
 			},
 			"timestamp": 1609611604
+		},
+		{
+			"n": 96,
+			"author": 421060058009305088,
+			"content": "Everyone except helloboi lost",
+			"status": "voting",
+			"message_id": 795084704193445928,
+			"votes": {},
+			"timestamp": 1609633393
 		}
 	]
 }
