@@ -1432,6 +1432,7 @@
 			"status": "voting",
 			"message_id": 794993314456797204,
 			"votes": {
+				"151149148639330304": -1,
 				"316957310985568256": 1
 			},
 			"timestamp": 1609611604
@@ -1442,7 +1443,9 @@
 			"content": "Everyone except helloboi lost",
 			"status": "voting",
 			"message_id": 795084704193445928,
-			"votes": {},
+			"votes": {
+				"151149148639330304": -1
+			},
 			"timestamp": 1609633393
 		}
 	]
