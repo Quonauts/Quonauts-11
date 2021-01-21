@@ -825,3 +825,10 @@ Replace the rules with the following:
 
 happy lunar new year !
 
+<a name='101'/>
+
+## #101
+
+create a rule named "rules 101":
+> These are rules for a game without much activity.
+
