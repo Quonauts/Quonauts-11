@@ -39,6 +39,7 @@
 * [**5. Weighted Sets**](#weighted-sets)
 * [**6. Proposal 8**](#proposal-8)
 * [**7. Classes**](#classes)
+* [**8. helloboi**](#helloboi)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -369,4 +370,8 @@ In the game state, each player is either a member of no class or a member of exa
 Classes have different actions and abilities which can only be done by their respective members.
 
 The points usually received for authoring or enacting a passed proposal (as per [**3.2. Points**](#points)) are not received for a proposal that only changes a player's class.
+
+## <a name='helloboi'/> helloboi
+
+Hello boi
 
