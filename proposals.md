@@ -626,7 +626,7 @@ the game ends immediately; all players lose (except <@!331320482047721472>).
 
 <a name='74'/>
 
-## #74
+## #74 — Passed
 
 add a new rule %helloboi:
 > Hello boi
