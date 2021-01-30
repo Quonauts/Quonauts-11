@@ -803,3 +803,12 @@ Everyone except helloboi lost
 Add a new rule %xkcd:
 > What if hornets literally bee crossbow aim fire hornet snake LITERALLY sesame street? What if bread crossbow literally canola oil crossbow? What if bread hornets literally bee catches fire catches fire canola oil crossbow? What if bees, and what if bread crossbow? What if oil crossbow crossbow? What if crossbow aim fire hornet crossbow crossbow crossbow? What if alphabet crossbow literally catches fire hornet? What if alphabet theory? What if heavpoot literally canola oil?
 
+<a name='98'/>
+
+## #98
+
+Replace the following in %proposal-content:
+> If a proposal describes the creation of a new rule section, it must specify its title, its content, and should specify its location in relation to an existing rule; if and only if it does not specify a location, then it will be assumed that its location is below all other currently existing rules (this does not apply after the proposal has been enacted).
+with:
+> If a proposal describes the creation of a new rule section, it must specify its title, its rule tag, its content, and should specify its location in relation to an existing rule; if and only if it does not specify a location, then it will be assumed that its location is below all other currently existing rules (this does not apply after the proposal has been enacted).
+
