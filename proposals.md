@@ -782,7 +782,7 @@ I win
 
 <a name='94'/>
 
-## #94
+## #94 — Failed
 
 no, you lost
 
