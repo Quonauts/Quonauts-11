@@ -756,7 +756,7 @@ Update the contents of the rule "Glossary" to
 
 <a name='90'/>
 
-## #90
+## #90 — Failed
 
 heavpoot must ping everyone
 
