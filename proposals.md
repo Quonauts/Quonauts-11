@@ -645,7 +645,7 @@ Quonauts 11: NEVER SETTLE
 
 <a name='77'/>
 
-## #77
+## #77 — Failed
 
 Append a sub-section named #h to %channels, that reads:
 > Any message that is not “h” (capital h is not allowed), is a violation of the rules.
