@@ -735,7 +735,7 @@ This adds the game's "active" state to the game state.
 
 <a name='89'/>
 
-## #89
+## #89 — Failed
 
 Update the contents of the rule "Glossary" to
 > The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and its subsections. A section may also define terms for use in the whole document.
