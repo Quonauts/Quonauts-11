@@ -639,7 +639,7 @@ restart quonauts, with a goal to be active again.
 
 <a name='76'/>
 
-## #76
+## #76 — Failed
 
 Quonauts 11: NEVER SETTLE
 
