@@ -770,7 +770,7 @@ delete proposal 88
 
 <a name='92'/>
 
-## #92
+## #92 — Failed
 
 celebrate the new year ( 2021 )
 
