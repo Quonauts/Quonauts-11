@@ -731,9 +731,7 @@ This adds the game's "active" state to the game state.
 
 <a name='88'/>
 
-## #88
-
-heav the game has ended
+## #88 — Deleted
 
 <a name='89'/>
 
