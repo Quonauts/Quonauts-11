@@ -691,7 +691,7 @@ indefinite hiatus?
 
 <a name='84'/>
 
-## #84
+## #84 — Passed
 
 All players gain 20 Triangles.
 
