@@ -1460,10 +1460,24 @@
 			"status": "voting",
 			"message_id": 805052210814910464,
 			"votes": {
+				"151149148639330304": -1,
 				"160279332454006795": -1,
 				"309787486278909952": -1
 			},
 			"timestamp": 1612009806
+		},
+		{
+			"n": 98,
+			"author": 151149148639330304,
+			"content": "Replace the following in %proposal-content:\n> If a proposal describes the creation of a new rule section, it must specify its title, its content, and should specify its location in relation to an existing rule; if and only if it does not specify a location, then it will be assumed that its location is below all other currently existing rules (this does not apply after the proposal has been enacted).\nwith:\n> If a proposal describes the creation of a new rule section, it must specify its title, its rule tag, its content, and should specify its location in relation to an existing rule; if and only if it does not specify a location, then it will be assumed that its location is below all other currently existing rules (this does not apply after the proposal has been enacted).",
+			"status": "voting",
+			"message_id": 805129330333057056,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1612028193
 		}
 	]
 }
