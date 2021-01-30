@@ -667,7 +667,7 @@ ok pr 73 got passed game over
 
 <a name='80'/>
 
-## #80
+## #80 — Failed
 
 everyone lost
 
