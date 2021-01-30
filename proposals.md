@@ -661,7 +661,7 @@ Append this text to #h
 
 <a name='79'/>
 
-## #79
+## #79 — Failed
 
 ok pr 73 got passed game over
 
