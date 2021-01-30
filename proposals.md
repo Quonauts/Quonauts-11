@@ -794,7 +794,7 @@ why?
 
 <a name='96'/>
 
-## #96
+## #96 — Failed
 
 Everyone except helloboi lost
 
