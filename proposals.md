@@ -633,7 +633,7 @@ add a new rule %helloboi:
 
 <a name='75'/>
 
-## #75
+## #75 — Failed
 
 restart quonauts, with a goal to be active again.
 
