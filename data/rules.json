@@ -160,6 +160,16 @@
 				780555182089961482
 			]
 		},
+		"helloboi": {
+			"tag": "helloboi",
+			"title": "helloboi",
+			"content": "Hello boi",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				805048840033927219
+			]
+		},
 		"lists": {
 			"tag": "lists",
 			"title": "Lists",
@@ -316,12 +326,13 @@
 				"winning",
 				"weighted-sets",
 				"proposal-8",
-				"classes"
+				"classes",
+				"helloboi"
 			],
 			"message_ids": [
-				780555294958813234,
-				780555296195739668,
-				780555313677991977
+				805048841585164298,
+				805048842310647869,
+				805048843469193227
 			]
 		},
 		"rule-content": {
