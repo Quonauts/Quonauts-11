@@ -652,7 +652,7 @@ Append a sub-section named #h to %channels, that reads:
 
 <a name='78'/>
 
-## #78
+## #78 — Failed
 
 This proposal is dependent on proposal 77.
 
