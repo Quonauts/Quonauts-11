@@ -812,3 +812,10 @@ Replace the following in %proposal-content:
 with:
 > If a proposal describes the creation of a new rule section, it must specify its title, its rule tag, its content, and should specify its location in relation to an existing rule; if and only if it does not specify a location, then it will be assumed that its location is below all other currently existing rules (this does not apply after the proposal has been enacted).
 
+<a name='99'/>
+
+## #99
+
+Replace the rules with the following:
+> e
+
