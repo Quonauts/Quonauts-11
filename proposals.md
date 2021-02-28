@@ -856,3 +856,9 @@ start quonauts 432868463
 
 Avocado ice cream: good or bad?
 
+<a name='106'/>
+
+## #106
+
+It is emphatically the duty of the <@!421060058009305088>  to say what the law is.
+
