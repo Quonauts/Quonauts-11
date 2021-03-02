@@ -862,3 +862,9 @@ Avocado ice cream: good or bad?
 
 It is emphatically the duty of the <@!421060058009305088>  to say what the law is.
 
+<a name='107'/>
+
+## #107
+
+ban <@!356107472269869058>
+
