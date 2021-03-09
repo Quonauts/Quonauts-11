@@ -910,3 +910,9 @@ that proposal got passed already smh
 
 @eberyon
 
+<a name='115'/>
+
+## #115
+
+make 👼 and 🍔 alternate voting options
+
