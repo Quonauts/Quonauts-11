@@ -892,3 +892,9 @@ bread
 
 end quonauts 11. People shall vote on who won following this proposal.
 
+<a name='112'/>
+
+## #112
+
+everyone lost except me (helloboi)
+
